@@ -1,0 +1,88 @@
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  grid-template-rows: 54px 1fr 45px;
+  grid-template-areas: "header header" "sidenav main" "footer footer";
+  height: 100vh;
+}
+
+.header {
+  grid-area: header;
+  background-color: #fff;
+  padding: 6px 0px 6px 10px;
+  display: flex;
+}
+
+.main {
+  grid-area: main;
+  background-color: #faf9f8;
+  padding-left: 40px;
+  padding-right: 32px;
+  max-width: calc(100vw - 400px);
+  max-height: calc(100vh - 100px);
+  overflow: auto;
+}
+
+.footer {
+  grid-area: footer;
+  background-color: #f3f2f1;
+  padding: 12px 20px;
+}
+
+.sidenav {
+  grid-area: sidenav;
+  background-color: #fff;
+  padding: 25px;
+}
+
+
+.fa {
+    font-family: "Font Awesome 6 Free"; /* Specify the font family */
+    font-weight: 900; /* Font Awesome uses 900 for solid icons */
+}
+
+.page-title {
+  padding: 52px 0px;
+}
+
+.card-columns .card{
+  padding: 0px;
+}
+
+.card {
+  margin: 10px;
+  padding: 0px;
+  margin-bottom: 28px;
+  border-radius: 2px;
+  background-color: #fff;
+  background-clip: padding-box;
+  
+}
+
+.small-box {
+    text-align: start; !important
+}
+
+ul .small-box{
+
+    padding-inline-start: 4px;!important
+}
+
+
+  /* More specific targeting for moving rightUi */
+
+
+.awesome-radio label {
+  font-weight: 400 !important;  /* Override bold style */
+}
+
+.sticky-btn {
+        position: -webkit-sticky; position: sticky;
+        width: 350px;
+        left: 28%;
+        bottom: 20px;
+        top: 20px;       /* 20 pixels from the viewport top when it becomes sticky */
+        z-index: 999;       /* Ensure it sits on top of other content */
+      }
+    

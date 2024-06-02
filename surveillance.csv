@@ -1,0 +1,93 @@
+row_n,drug_class,drug_name,risk,test,id,image,study,text,cor
+2,Anthracycline,,low,ecg,anth_low_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+3,Anthracycline,,low,tte,anth_low_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, C4, and  at 12 months after completion of treatment",1
+4,Anthracycline,,low,labs,anth_low_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"cTN, NP","Obtain at baseline, C2, C4, C6, and at 3 months after completion of treatment",1
+5,Anthracycline,,moderate,ecg,anth_mod_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+6,Anthracycline,,moderate,tte,anth_mod_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, C4, and at 12 months  after completion of treatment",1
+7,Anthracycline,,moderate,labs,anth_mod_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,cTN and NP,"Obtain at baseline, C2, C4, C6, and at 3 months after completion of treatment",1
+8,Anthracycline,,high,ecg,anth_high_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+9,Anthracycline,,high,tte,anth_high_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, C2, C4, C6 and at 3, 12 months after completion of treatment",1
+10,Anthracycline,,high,labs,anth_high_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"cTN, NP","Obtain at baseline, C1, C2, C3, C4, C5, C6, and at 3, 12 months after completion of treatment",1
+11,Anthracycline,,very_high,ecg,anth_vhi_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+12,Anthracycline,,very_high,tte,anth_vhi_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, C2, C4, C6 and at 3, 12 months after completion of treatment",1
+13,Anthracycline,,very_high,labs,anth_vhi_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"cTN, NP","Obtain at baseline, C1, C2, C3, C4, C5, C6, and at 3, 12 months after completion of treatment",1
+14,HER-2 targeted therapies,,low,ecg,her2_low_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline,1
+15,HER-2 targeted therapies,,low,tte,her2_low_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment and at 12 months after completion of treatment",1
+16,HER-2 targeted therapies,,low,labs,her2_low_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"cTN, NP","Obtain at baseline, 3, 6, 9, 12 months of treatment and at 12 months after completion of treatment",1
+17,HER-2 targeted therapies,,moderate,ecg,her2_mod_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+18,HER-2 targeted therapies,,moderate,tte,her2_mod_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment and at 12 montths after completion of treatment",1
+19,HER-2 targeted therapies,,moderate,labs,her2_mod_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,cTN and NP,"Obtain at baseline, 3, 6, 9, 12 months of treatment and at 12 montths after completion of treatment",1
+20,HER-2 targeted therapies,,high,ecg,her2_high_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+21,HER-2 targeted therapies,,high,tte,her2_high_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment and at 3, 12 months after completion of treatment",1
+22,HER-2 targeted therapies,,high,labs,her2_high_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"cTN, NP","Obtain at baseline, 3, 6, 9, 12 months of treatment and at 3, 12 months after completion of treatment",1
+23,HER-2 targeted therapies,,very_high,ecg,her2_vhi_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+24,HER-2 targeted therapies,,very_high,tte,her2_vhi_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment and at 3, 12 months after completion of treatment",1
+25,HER-2 targeted therapies,,very_high,labs,her2_vhi_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"cTN, NP","Obtain at baseline, 3, 6, 9, 12 months of treatment and at 3, 12 months after completion of treatment",1
+26,VEGF inhibitors,,low,ecg,vegfi_low_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+27,VEGF inhibitors,,low,tte,vegfi_low_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,Obtain at baseline only,1
+28,VEGF inhibitors,,low,labs,vegfi_low_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"cTN, NP","Obtain at baseline, 3, 6, 9, 12 months of treatment and at 3, 12 months after completion of treatment",1
+29,VEGF inhibitors,,moderate,ecg,vegfi_mod_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+30,VEGF inhibitors,,moderate,tte,vegfi_mod_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 4, 8, 12 months of treatment and then every 6-12 months",1
+31,VEGF inhibitors,,moderate,labs,vegfi_mod_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,NP,"Obtain at baseline, 4, 8, 12 months of treatment",1
+32,VEGF inhibitors,,high,ecg,vegfi_high_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+33,VEGF inhibitors,,high,tte,vegfi_high_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment, and then every 6-12 months",1
+34,VEGF inhibitors,,high,labs,vegf_high_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"cTN, NP","Obtain at baseline, 3, 6, 9, 12 months of treatment and then every 6-12 months",1
+35,VEGF inhibitors,,very_high,ecg,vegf_vhi_ecg,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+36,VEGF inhibitors,,very_high,tte,vegf_vhi_tte,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment, and then every 6-12 months",1
+37,VEGF inhibitors,,very_high,labs,vegf_vhi_labs,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"cTN, NP","Obtain at baseline, 3, 6, 9, 12 months of treatment and then every 6-12 months",1
+38,BRC-ABL inhibitors,bosutinib,not_app,pe,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,"PEx, BP","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+39,BRC-ABL inhibitors,bosutinib,not_app,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+40,BRC-ABL inhibitors,bosutinib,not_app,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"Lipids, A1c",Obtain at baseline only,1
+41,BRC-ABL inhibitors,bosutinib,not_app,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,Obtain at baseline only,1
+42,BRC-ABL inhibitors,dasatinib,not_app,pe,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,"PEx, BP","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+43,BRC-ABL inhibitors,dasatinib,not_app,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+44,BRC-ABL inhibitors,dasatinib,not_app,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"Lipids, A1c",Obtain at baseline only,1
+45,BRC-ABL inhibitors,dasatinib,not_app,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,Obtain at baseline and then every 6-12 months after 12 months of treatment,1
+46,BRC-ABL inhibitors,dasatinib,high,pe,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,"PEx, BP","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+47,BRC-ABL inhibitors,dasatinib,high,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+48,BRC-ABL inhibitors,dasatinib,high,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"Lipids, A1c",Obtain at baseline only,1
+49,BRC-ABL inhibitors,dasatinib,high,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment and then every 6-12 months",1
+50,BRC-ABL inhibitors,dasatinib,very_high,pe,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,"PEx, BP","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+51,BRC-ABL inhibitors,dasatinib,very_high,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline only,1
+52,BRC-ABL inhibitors,dasatinib,very_high,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"Lipids, A1c",Obtain at baseline only,1
+53,BRC-ABL inhibitors,dasatinib,very_high,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment and then every 6-12 months",1
+54,BRC-ABL inhibitors,nilotinib,not_app,pe,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,"PEx, BP","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+55,BRC-ABL inhibitors,nilotinib,not_app,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,"Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+56,BRC-ABL inhibitors,nilotinib,not_app,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"Lipids, A1c","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+57,BRC-ABL inhibitors,nilotinib,not_app,abi,,https://img.icons8.com/?size=80&id=dofdAkB2RB5m&format=png,ABI,"Obtain at baseline, 6, 12 months of treatment, and then every 6-12 months",1
+58,BRC-ABL inhibitors,nilotinib,not_app,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,Obtain at baseline only,1
+59,BRC-ABL inhibitors,ponatinib,not_app,pe,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,"PEx, BP","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+60,BRC-ABL inhibitors,ponatinib,not_app,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,"Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+61,BRC-ABL inhibitors,ponatinib,not_app,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"Lipids, A1c","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+62,BRC-ABL inhibitors,ponatinib,not_app,abi,,https://img.icons8.com/?size=80&id=dofdAkB2RB5m&format=png,ABI,"Obtain at baseline, 6, 12 months of treatment, and then every 6-12 months",1
+63,BRC-ABL inhibitors,ponatinib,not_app,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,Obtain at baseline and then every 6-12 months after 12 months of treatment,1
+64,BRC-ABL inhibitors,ponatinib,high,pe,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,"PEx, BP","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+65,BRC-ABL inhibitors,ponatinib,high,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,"Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+66,BRC-ABL inhibitors,ponatinib,high,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"Lipids, A1c","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+67,BRC-ABL inhibitors,ponatinib,high,abi,,https://img.icons8.com/?size=80&id=dofdAkB2RB5m&format=png,ABI,"Obtain at baseline, 6, 12 months of treatment, and then every 6-12 months",1
+68,BRC-ABL inhibitors,ponatinib,high,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment and then every 6-12 months",1
+69,BRC-ABL inhibitors,ponatinib,very_high,pe,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,"PEx, BP","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+70,BRC-ABL inhibitors,ponatinib,very_high,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,"Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+71,BRC-ABL inhibitors,ponatinib,very_high,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,"Lipids, A1c","Obtain at baseline, 3, 6, 9, 12, months of treatment and then every 6-12 months",1
+72,BRC-ABL inhibitors,ponatinib,very_high,abi,,https://img.icons8.com/?size=80&id=dofdAkB2RB5m&format=png,ABI,"Obtain at baseline, 6, 12 months of treatment, and then every 6-12 months",1
+73,BRC-ABL inhibitors,ponatinib,very_high,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline, 3, 6, 9, 12 months of treatment and then every 6-12 months",1
+74,Multiple myeloma therapies,,low,ca,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,PEx,Obtain at baseline and during therapy,1
+75,Multiple myeloma therapies,,low,bp,,https://img.icons8.com/?size=80&id=dofdAkB2RB5m&format=png,BP,"Obtain at baseline, at every clinic visit, and home BP monitoring",1
+76,Multiple myeloma therapies,,low,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline,1
+77,Multiple myeloma therapies,,low,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,NP,"Obtain at baseline. (If carfilzomib or bortezomib, then NP every cycle for the first 6 cycles)",1
+78,Multiple myeloma therapies,,low,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline. (If carfilzomib, also obtain every 3 cycles)",1
+79,Multiple myeloma therapies,,moderate,ca,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,PEx,Obtain at baseline and during therapy,1
+80,Multiple myeloma therapies,,moderate,bp,,https://img.icons8.com/?size=80&id=dofdAkB2RB5m&format=png,BP,"Obtain at baseline, at every clinic visit, and home BP monitoring",1
+81,Multiple myeloma therapies,,moderate,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline,1
+81,Multiple myeloma therapies,,moderate,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,NP,"Obtain at baseline. (If carfilzomib or bortezomib, then NP every cycle for the first 6 cycles)",1
+81,Multiple myeloma therapies,,moderate,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline. (If carfilzomib, also obtain every 3 cycles)",1
+81,Multiple myeloma therapies,,high,ca,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,PEx,Obtain at baseline and during therapy,1
+81,Multiple myeloma therapies,,high,bp,,https://img.icons8.com/?size=80&id=dofdAkB2RB5m&format=png,BP,"Obtain at baseline, at every clinic visit, and home BP monitoring",1
+81,Multiple myeloma therapies,,high,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline,1
+81,Multiple myeloma therapies,,high,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,NP,"Obtain at baseline. (If carfilzomib or bortezomib, then NP every cycle for the first 6 cycles)",1
+81,Multiple myeloma therapies,,high,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline. (If carfilzomib, also obtain every 3 cycles)",1
+81,Multiple myeloma therapies,,very_high,ca,,https://img.icons8.com/?size=80&id=DSlVjsc8FDTt&format=png,PEx,Obtain at baseline and during therapy,1
+81,Multiple myeloma therapies,,very_high,bp,,https://img.icons8.com/?size=80&id=dofdAkB2RB5m&format=png,BP,"Obtain at baseline, at every clinic visit, and home BP monitoring",1
+81,Multiple myeloma therapies,,very_high,ecg,,https://img.icons8.com/?size=200&id=Yn6jEBlGZonv&format=png,ECG,Obtain at baseline,1
+81,Multiple myeloma therapies,,very_high,labs,,https://img.icons8.com/?size=200&id=OiHFoVuOwcFz&format=png,NP,"Obtain at baseline. (If carfilzomib or bortezomib, then NP every cycle for the first 6 cycles)",1
+81,Multiple myeloma therapies,,very_high,tte,,https://img.icons8.com/?size=200&id=xtPfZ2SHYUD9&format=png,TTE,"Obtain at baseline. (If carfilzomib, also obtain every 3 cycles)",1

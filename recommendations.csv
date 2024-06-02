@@ -1,0 +1,16 @@
+risk_level,recommendation,loe
+low,Routine oncology follow-up,
+low,Cardiology referral if CV toxicity develops,I
+low,Recommended for patients with low CV toxicity risk to proceed to anticancer therapy without delay,I
+mod,Closer oncology follow-up,
+mod,Cardiology referral if CV toxicity develops,I
+mod,Cardiology referral,IIb
+high,Cardiology referral,I
+high,Discussion of the risks/benefits balance of cardiotoxic anticancer treatment in a multidisciplinary manner,i
+high,Cardioprotective strategies,IIa
+very_high,Cardiology referral,I
+very_high,Discussion of the risks/benefits balance of cardiotoxic anticancer treatment in a multidisciplinary manner,I
+very_high,Cardioprotective strategies,IIa
+all,Communicate the CV toxicity risk assessment results to the patient,I
+all,Educate patients regarding risks and protective healthy lifestyle,I
+all,Management of CVRF and CVD according to ESC guidelines,I

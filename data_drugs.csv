@@ -1,0 +1,999 @@
+drug_name,definition,mechanism_of_action,types,cardiovascular_toxicity,risk_stratification,surveillance,diagnosis_toxicity
+VEGF inhibitors,"<p>Abnormal activation of kinases plays a crucial role in the development of various types of cancer. The VEGF signaling pathway can be inhibited by administering monoclonal antibodies via intravenous injection against circulating VEGF or by taking small-molecule TKI orally to target the VEGF receptor. VEGF inhibitors are used to treat different types of cancer, including renal, thyroid, and hepatocellular carcinomas <a href=""https://doi.org/10.1093/eurheartj/ehac244"">(ESC, 2022)</a>.</p>","<p>The mechanism of action of VEGF inhibitors involves targeting the angiogenesis process. These drugs work in two primary ways:<br /><br /><strong>Monoclonal Antibodies<br /></strong>These intravenously administered drugs directly target circulating VEGF molecules. By binding to VEGF, these antibodies prevent it from interacting with its receptors on the surface of endothelial cells. This inhibits the signaling pathways that normally lead to angiogenesis (<a href=""https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.117.08856"">Bair, 2013; ESC, 2022</a>). Monoclonal antibodies include aflibercept, bevacizumab, and ramucirumab.<br /><br /><strong>Tyrosine Kinase Inhibitors (TKIs)<br /></strong>These orally taken small molecules target the VEGF receptors located on endothelial cells. TKIs disrupt the downstream signaling pathways that promote angiogenesis by inhibiting these receptors. This includes preventing the activation of kinases, which are enzymes that play a critical role in cell signaling and are implicated in cancer progression as well as cardiovascular and metabolic homeostasis (Bair, 2013; ESC, 2022). TKIs include Axitinib, Cabozantinib, Lenvatinib, pazopanib, regorafenib, sorafenib, Sunitinib, and Vandetanib.<br />By blocking the VEGF signaling pathway, these drugs effectively reduce the blood supply to tumors, limiting their growth and spread.<br /><br />The pathophysiological mechanisms behind the myocardial toxicity associated with VEGF inhibitors (VEGFI) remain largely unexplored. While the hypertensive effects of VEGFI are considered significant, the key factors seem to be disruptions in cardiac energy production through AMP-kinase inhibition and mitochondrial dysfunction, alongside the impacts of inhibiting VEGF, PDGFR, and c-Kit signaling pathways. These alterations may lead to decreased myocardial contractility or increased myocardial susceptibility to additional or concurrent stressors, such as hypertension. Tyrosine kinase inhibitors (TKIs) target a wide array of pathways, including both those intended (""""on-target"""", affecting both cancer cells and heart cells) and unintended (""""off-target"""") kinases due to the drugs' limited specificity. The direct effects on the target can cause cardiac toxicity or hinder the heart's normal compensatory mechanisms under stress. VEGF plays a crucial role in the heart's hypertrophic response to stress, including stress induced by hypertension. Moreover, VEGF-A levels are lower in myocardial biopsies from patients with nonischemic cardiomyopathy, with decreased VEGF-A mRNA levels also linked to tissue rarefaction, contributing to hypoxia and the activation of hypoxia-inducible factors (<a href=""https://doi.org/10.1038/nrd3252"">Force, 2011</a>, <a href=""https://doi.org/10.1038/nrd3252"">Richards, 2011</a>, <a href=""http://doi.org/DOI:%2010.1038/8379"">Carmeliet 1999</a>,<a href=""http://doi.org/%20doi:%2010.1161/HYPERTENSIONAHA.117.08856"">Touyz, 2017</a>)</p>","<p><strong>Monoclonal Antibodies</strong></p>
+<ul>
+<li>Aflibercept</li>
+<li>Bevacizumab</li>
+<li>Ramucirumab</li>
+</ul>
+<p><strong>VEGF TKI</strong></p>
+<ul>
+<li>Axitinib,</li>
+<li>Cabozantinib</li>
+<li>Lenvatinib</li>
+<li>Pazopanib</li>
+<li>Regorafenib</li>
+<li>Sorafenib</li>
+<li>Sunitinib</li>
+<li>Vandetanib</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p>VEGF inhibitors are associated with a wide range of cardiovascular toxicities, including:</p>
+<ul>
+<li>Hypertension</li>
+<li>Left ventricular dysfunction/heart failure</li>
+<li>QTc prolongation</li>
+<li>Acute arterial events (aortic dissection, stroke, arterial thrombosis, acute coronary events, vasospasm)</li>
+<li>Venous thromboembolism</li>
+</ul>
+<p><span style=""text-decoration: underline;""><strong>Monoclonal antibodies</strong></span></p>
+<p><strong>Aflibercept</strong></p>
+<ul>
+<li>Very common: HTN</li>
+<li>Common: ATE</li>
+<li>Rare: MI</li>
+</ul>
+<p><strong>Bevacizumab</strong></p>
+<ul>
+<li>Very common: HTN, VTE</li>
+<li>Common: HF, ATE</li>
+<li>Rare: MI</li>
+</ul>
+<p><strong>Ramucirumab</strong></p>
+<ul>
+<li>Very common: HTN</li>
+<li>Common: ATE</li>
+<li>Rare: MI</li>
+</ul>
+<p><strong>VEGF TKI</strong></p>
+<p><strong>Axitinib</strong></p>
+<ul>
+<li>Very common: HTN</li>
+<li>Common: HF, VTE, ATE, MI</li>
+</ul>
+<p>Cabozantinib</p>
+<ul>
+<li>Very common: HTN</li>
+<li>Common: Prolonged QTc, VTE, ATE</li>
+<li>Uncommon: HF, MI</li>
+</ul>
+<p>Lenvatinib</p>
+<ul>
+<li>Very common: HTN</li>
+<li>Common: HF, prolonged QTc, ATE, MI</li>
+</ul>
+<p>Pazopanib</p>
+<ul>
+<li>Very common: HTN</li>
+<li>Common: Prolonged QTc, VTE, MI</li>
+<li>Uncommon: HF</li>
+</ul>
+<p>Regorafenib</p>
+<ul>
+<li>Very common: HTN</li>
+<li>Common: Prolonged QTc, VTE, MI</li>
+<li>Uncommon: HF, ATE</li>
+</ul>
+<p>Sorafenib</p>
+<ul>
+<li>Very common: HTN</li>
+<li>Common: HF, MI</li>
+<li>Rare: Prolonged QTc</li>
+</ul>
+<p>Sunitinib</p>
+<ul>
+<li>Very common: HTN</li>
+<li>Common: VTE</li>
+<li>Uncommon: HF, prolonged QTc, MI</li>
+</ul>
+<p>Vandetanib</p>
+<ul>
+<li>Very common: HTN</li>
+<li>Uncommon: HF, prolonged QTc, MI</li>
+</ul>
+<p><em><strong>Incidence categories:</strong></em></p>
+<ul>
+<li>Very common (&ge;10%)</li>
+<li>Common (1% to &lt; 1%)</li>
+<li>Uncommon (0.1% to &lt;1%)</li>
+<li>Rare (&lt;0.1%)</li>
+</ul>
+<p><em><strong>Abbreviations:</strong></em></p>
+<ul>
+<li>ATE = Arterial thromboembolism</li>
+<li>HF = heart failure</li>
+<li>HTN = hypertension</li>
+<li>MI = myocardial infarction</li>
+<li>VTE = Venous thromboembolism</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Low Risk</strong><br />Baseline: ECG (class I), TTE (class IIa)</p>
+<p><strong>Moderate Risk</strong><br />Baseline: ECG (class I), TTE (class IIa), NP (class IIb)</p>
+<p><strong>High and Very High-Risk</strong><br />Baseline: ECG (class I), TTE (class I), NP (class IIa)</p>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Low Risk</strong><br />Baseline: ECG (class I), TTE (class IIa)</p>
+<p><strong>Moderate Risk</strong><br />Baseline: ECG* (class I), TTE (class IIa), NP (class IIb)<br />4 Months: TTE, NP (class IIb)<br />8 Months: TTE, NP (class IIb)<br />12 Months: TTE, NP (class IIb)<br />Every 6-12 Months: TTE (class IIa)</p>
+<p><strong>High and Very High-Risk</strong><br />Baseline; ECG* (class I), TTE (class I), NP (class IIa)<br />3 Months: TTE, NP (class IIa)<br />6 Months: TTE, NP (class IIa)<br />9 Months: TTE, NP (class IIa)<br />12 Months TTE, NP (class IIa)<br />Every 6-12 Months: TTE (class IIa)</p>
+<p><br /><em>* In patients treated with VEGFi at moderate or high risk of QTc prolongation, ECG is recommended (class I) monthly during the first 3 months and every 3-6 months thereafter (class I). Consider an ECG 2 weeks after starting treatment in high-risk patients and new monitoring for any dose increase.</em></p>
+<p><span style=""text-decoration: underline;"">Note 1:</span> BP measurement is recommended for patients treated with VEGFi, bevacizumab, or ramucirumab at every clinical visit (class I). Daily home monitoring of BP for patients treated with VEGFi during the first cycle, after each increase of VEGFi dose, and every 2-3 weeks after that is recommended (class I).Note: CMR should be considered for assessing cardiac function when TTE is unavailable or not diagnostic.</p>
+<p><span style=""text-decoration: underline;"">Note 2:</span> TTE and NP should be considered at 4 weeks after starting treatment in very high-risk patients.</p>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>
+<p>&nbsp;</p>","<p><strong>Hypertension</strong><br />Hypertension is the most common CV adverse effect of VEGFi. It could happen within hours to days. Patients with pre-existing hypertension or CVD, older age, history of hyperlipidemia, obesity, smoking, and previous anthracycline use are at greater risk. Blood pressure should be monitored closely during treatment with VEGFi. Early diagnosis and management of hypertension are crucial to prevent other cardiovascular complications of VEGFi therapy, particularly HF. Patients with pre-existing hypertension should have controlled blood pressure before initiation of VEGFi. VEGFi-associated hypertension is dose-dependent and is usually reversible with discontinuing the treatment.</p>
+<p>The decision to start BP treatment and BP target is made according to the BP management guidelines. ACE-I or ARBs are the recommended first-line therapy for the treatment of hypertension. In severe hypertension (systolic BP &ge;180 mmHg or diastolic BP&ge;80 mmHg), MDT should evaluate the patient, and the therapy should be discontinued or temporarily interrupted until BP is controlled (systolic BP &lt;160 mmHg and diastolic BP &lt;100 mmHg). Therapy would be restarted when BP is controlled (dose reduction should be considered).</p>
+<p><br /> After stopping VEGFi therapy, BP decreases. Therefore, the dose of antihypertensive therapy must be decreased or stopped as needed. (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>) </p>
+<p><strong>Acute Coronary syndrome</strong><br />Diagnosis and management of ACS are made using the same guidelines as for patients without cancers. However, the management of ACS in any patient with cancer is more challenging due to concomitant cancer (bleeding risk, frailty, thrombocytopenia, increased thrombotic risk). Cancer therapy should be interrupted, and the decision to restart therapy is made after a multidisciplinary discussion. (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>
+<p><strong>QTc Prolongation</strong> <br />Diagnosis and Treatment of QTc prolongation follow the general guidelines for patients without cancer. (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>
+<p><strong>Heart Failure</strong> <br />In the ESC guidelines, there is no recommendation for the management of HF in patients on VEGFi. The United States Prescribing Information recommends discontinuing sunitinib in patients presenting with clinical signs of congestive heart failure. In patients without clinical signs of CHF but who exhibit a decrease in ejection fraction greater than 20% and less than 50% from baseline or below the normal lower limit if baseline ejection fraction measurements are unavailable, sunitinib should be interrupted or dose-adjusted accordingly. (<a href=""https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=96ce8850-b5ae-382b-8433-04949533af44"">Daily Med, 2024</a>)</p>"
+Immune Checkpoint Inhibitors,"<p>Immune checkpoint inhibitors (ICIs) are a novel class of therapeutic agents, primarily comprising monoclonal antibodies. ICIs are currently employed either alone or in conjunction with other chemotherapeutic agents as first or second-line treatment options for approximately 50 types of cancer (<a href=""https://doi.org/10.1038/s41467-020-17670-y"">Robert, 2020</a>).</p>","<p>The immune checkpoints are proteins expressed in the T cells that inhibit their activation when they contact a body cell. ICIs include monoclonal antibodies that block the immune brakes or regulators, cytotoxic T lymphocyte-associated antigen-4 (CTLA-4), programmed death-1 (PD-1) , and programmed death-ligand 1 (PD-L1) expressed in the cancer cells, with the consequent cytotoxic immune response. By blocking these checkpoints from binding with their partner proteins, ICIs inhibit the &lsquo;off&rsquo; signal, activating T cells and promoting the killing of cancer cells&rdquo; (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</p>","<p><strong>Cytotoxic T lymphocyte-associated antigen-4 (CTLA-4) inhibitors</strong></p>
+<ul>
+<li>Ipilimumab</li>
+<li>Tremelimumab</li>
+</ul>
+<p><strong>Programmed death-1 (PD-1) inhibitors</strong></p>
+<ul>
+<li>Nivolumab</li>
+<li>Cemiplimab</li>
+<li>Pembrolizumab</li>
+</ul>
+<p><strong>Programmed death-ligand 1 (PD-L1) inhibitors</strong></p>
+<ul>
+<li>Atezolizumab</li>
+<li>Avelumab</li>
+<li>Durvalumab</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p>ICI-related cardiovascular toxicities include:</p>
+<ul>
+<li>Myocarditis</li>
+<li>Non-inflammatory heart failure syndromes</li>
+<li>Takatsubo Syndrome</li>
+<li>Pericardial Disease</li>
+<li>Arrhythmias</li>
+<li>Vasculitis</li>
+<li>Acute coronary syndrome</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>High Risk</strong></p>
+<ul>
+<li>Dual ICI therapy</li>
+<li>Combination ICI therapy with other cardiotoxic therapies</li>
+<li>Patients with ICI-associated non-cardiovascular events</li>
+<li>Prior cancer therapy-related cardiac dysfunction (CTRCD)</li>
+<li>Prior cardiovascular disease (CVD)</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Low Risk</strong><br />Baseline: CV assessment (class I), ECG (class I), cTn (class I), Natriuretic peptides (class I), transthoracic echocardiogram (class IIb)<br />C2: ECG (class IIa), cTn (class IIa)<br />C3: ECG (class IIa), cTn (class IIa)<br />C4: ECG (class IIa), cTn (class IIa)<br />Every 3C: CV assessment (class I), ECG (class IIa), cTn (class IIa)<br />Every 6M-12M: CV assessment (class IIb), ECG (class IIb), Natriuretic peptides (class IIb)</p>
+<p><strong>High Risk</strong><br />Baseline: CV assessment (class I), ECG (class I), cTn (class I), Natriuretic peptides (class I), transthoracic echocardiogram (class I)<br />C2: ECG (class IIa), cTn (class IIa)<br />C3: ECG (class IIa), cTn (class IIa)<br />C4: ECG (class IIa), cTn (class IIa)<br />Every 3C: CV assessment (class I), ECG (class IIa), cTn (class IIa)<br />Every 6M-12M: CV assessment (class I), ECG (class I), Natriuretic peptides (class I)</p>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Myocarditis</strong></p>
+<p>New cardiac symptoms, ECG abnormalities, or troponin elevation in anyone who has received ICI treatment within the past 12 weeks should prompt investigation for ICI-associated myocarditis.<br />Diagnostic work-up should aim to exclude other etiologies of myocardial injury such as acute coronary syndrome or acute infectious myocarditis.</p>
+<p>All patients should undergo transthoracic echocardiogram and cardiac magnetic resonance (CMR). If CMR is unavailable or contraindicated, cardiac fluorodeoxyglucose positron emission tomography (PET) might be considered. If noninvasive imaging is unrevealing, endomyocardial biopsy (EMB) is indicated. </p>
+<p><strong>Diagnostic Workup</strong><br />Lab:</p>
+<ul>
+<li>Troponin (class I)</li>
+<li>NT-proBNP (class I)</li>
+</ul>
+<p>Imaging:</p>
+<ul>
+<li>Echocardiography (class I)</li>
+<li>CMR (class I)</li>
+<li>Cardiac PET if CMR is unavailable/contraindicated</li>
+</ul>
+<p>Others:</p>
+<ul>
+<li>ECG (class I), continuous ECG monitoring (class I)</li>
+<li>EMB if noninvasive tests are inconclusive (class IIa)</li>
+</ul>
+<p><strong>Diagnostic Criteria</strong><br /><span style=""text-decoration: underline;"">Histological diagnosis</span> (EMB): multifocal inflammatory cell infiltration with overt myocyte loss on light microscopy</p>
+<p><span style=""text-decoration: underline;"">Clinical diagnosis</span>: cTn elevation (new or significant elevation) plus one major criterion or 2 minor criteria; ACS and acute infectious myocarditis should be ruled out.</p>
+<ul>
+<li><strong>Major Criterion</strong>: CMR evidence of acute myocarditis (modified Lake Louise criteria (<a href=""https://doi.org/10.1016/j.jacc.2018.09.072"">Ferreira, 2018</a>)).</li>
+<li><strong>Minor Criteria</strong>:
+<ul>
+<li>Symptomatic presentation (fatigue, myalgia, chest pain, diplopia, ptosis, dyspnea, orthopnea, lower extremity edema, palpitations, dizziness, syncope, muscle weakness, cardiogenic shock</li>
+<li>Ventricular arrhythmia and or new atrioventricular conduction disturbances</li>
+<li>Decline in LV systolic function, with or without regional wall motion abnormalities in a non-Takotsubo pattern</li>
+<li>Other immune-related adverse events (myositis, myopathy, myasthenia gravis)</li>
+<li>Suggestive CMR</li>
+</ul>
+</li>
+</ul>
+<p><strong>Management</strong><br />ICI-associated myocarditis is classified based on the severity of the myocarditis</p>
+<ul>
+<li>Fulminant: hemodynamic instability, HF requiring non-invasive or invasive ventilation, high-grade or complete AV block, or significant ventricular arrhythmias</li>
+<li>Non-fulminant: symptomatic but hemodynamically and electrically stable</li>
+</ul>
+<p>In all suspected cases, temporary interruption of ICIs is recommended, while diagnostic workup is being completed.</p>
+<ul>
+<li>The decision to resume vs. permanently discontinuing ICI therapy in suspected (but not confirmed) cases should be made only after a multidisciplinary discussion with the cardiologist/cardio-oncologist and oncologist.</li>
+<li>In confirmed fulminant or non-fulminant myocarditis, the discontinuation of ICI therapy is recommended.</li>
+<li>The patient should be admitted to the hospital. Those with fulminant myocarditis (hemodynamic or electrical instability) should be admitted to ICU.</li>
+<li>All patients should have continuous ECG monitoring.</li>
+<li>Heart failure, cardiogenic shock, arrhythmias, or pericardial effusion should be managed per guidelines.</li>
+<li>Once the diagnosis of myocarditis is likely (non-fulminant or fulminant), patients should receive methylprednisolone 500-1000 mg IV bolus once a day for 3-5 days. In clinically unstable patients with suspected myocarditis (before a definitive diagnosis is made), a single dose of methylprednisolone IV is appropriate.</li>
+<li>Once clinically improved (resolution of left ventricular dysfunction, AV block, or ventricular arrhythmias, decrease in cTn by 50% from the peak level within 1-3 days), we can switch to oral prednisolone starting at 1 mg/kg per day (maximum dose 80 mg/day).</li>
+<li>There is no consensus on the most appropriate protocol for tapering steroids. However, ESC recommends reducing the dose of prednisolone by 10 mg per week with close monitoring of the symptoms, ECG, and troponin levels.</li>
+<li>LV function and troponin level should be reassessed once the dose of prednisone reaches 20 mg once daily. If stable, continue tapering off the prednisone by 5 mg per week, reaching 5 mg once a day. Finally, reduce the dose by 1 mg per week. Troponin should be monitored throughout the weaning protocol.</li>
+<li>If no clinical improvement (resolution of left ventricular dysfunction, AV block or ventricular arrhythmias, decrease in cTn by 50% from the peak level within 1-3 days) after 3 days of methylprednisolone boluses, second-line immunosuppression is indicated, such as mycophenolate mofetil, anti-thymocyte globulin, intravenous immunoglobulin, tocilizumab, abatacept, alemtuzumab, tofacitinib, and plasma exchange. A multidisciplinary discussion is recommended before choosing the best regimen.</li>
+</ul>
+<p><strong>Recovery</strong></p>
+<ul>
+<li>Complete recovery is characterized by the total alleviation of symptoms, the return to normal levels of biomarkers, and the restoration of left ventricular ejection fraction (LVEF) following the cessation of immunosuppressive therapy. While CMR might continue to show late gadolinium enhancement (LGE) or increased T1 signaling indicative of fibrosis, there should be no signs of acute edema.</li>
+<li>In selected patients with previous uncomplicated ICI-associated myocarditis, the decision to either permanently discontinue or resume ICI therapy should only be made after a multidisciplinary discussion, once the patient is off steroids.<br />(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</li>
+</ul>"
+TKI,"<p>Definition: ABL is an oncoprotein that loses its physiological role of moving between the nucleus and cytoplasm when it fuses with BCR. ABL tyrosine kinase activity is activated when it combines with BCR and this triggers a cascade of reaction in the cytoplasm. The subsequent interaction of this activated complex with major proteins in the oncogenic pathway leads to the disruption of key cellular processes in the body. Examples include interference with the MAPK which leads to increased proliferation, Disruption of the JAK-STAT pathway leading to impaired transcription activity, and increased apoptosis with its interaction with the PI3K/AKT pathway.&nbsp; BCR-ABL is implicated in CML, Philadelphia-positive acute lymphoblastic leukemia (Ph+ ALL. ) (<a href=""https://aacrjournals.org/clincancerres/article/18/4/930/77476/Molecular-Pathways-BCR-ABLBCR-ABL"">Saglio et al, 2011</a>)</p>","<p>Notably, ICIs can induce aberrant activation of T cells, extending beyond tumor eradication to attack non-neoplastic tissues, thereby precipitating immune-related adverse events. Such dysregulated immune responses can manifest as severe cardiovascular complications, among other complications (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>1st Generation BCR-ABL TKI</strong></p>
+<ul>
+<li>Imatinib</li>
+</ul>
+<p><strong>2nd Generation BCR-ABL TKI</strong></p>
+<ul>
+<li>Nilotinib</li>
+<li>Dasatinib</li>
+<li>Bosutinib</li>
+</ul>
+<p><strong>3rd Generation BCR-ABL TKI</strong></p>
+<ul>
+<li>Ponatinib</li>
+</ul>","<p><strong>Imatinib:</strong><br />Uncommon: HTN, HF, Hyperglycemia, Pleural Effusion<br />Rare:Atrial fibrillation, Pericardial Effusion, Vascular toxicity (stroke, MI, PA)</p>
+<p><strong>Nilotinib:</strong><br />Common: HTN, &uarr;QTC, Atrial fibrillation, Hyperglycemia, Dyslipidemia Vascular toxicity (stroke, MI, PAD) <br />Uncommon: Pericardial Effusion, Pleural Effusion</p>
+<p><br /><strong>Dasatinib:</strong><br />Very common: Pleural effusion<br />Common: HTN, HF, Pericardial Effusion, Pulm HTN<br />Uncommon: &uarr;QTC, Dyslipidemia <br />Rare: Vasc. toxicity</p>
+<p><strong>Bosutinib :</strong><br />Common: HTN , Pericardial Effusion, Pleural Effusion<br />Uncommon: &uarr;QTC, Pulm HTN</p>
+<p><strong>Ponatinib:</strong> <br />Very common: HTN<br />Common: Atrial fibrillation, HF, Hyperglycemia, Pericardial Effusion, Pleural Effusion, PH, Dyslipidemia Vascular toxicity (stroke, MI, PAD)</p>
+<p>&nbsp;</p>
+<p><em>Incidence Categories:</em></p>
+<ul>
+<li>Very common (≧ 10%)</li>
+<li>Common (1% to &lt;10%)</li>
+<li>Uncommon incidence (0.1% to &lt;1%)</li>
+<li>Rare (&lt;0.1%)</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC 2022</a>)</p>","<p><strong>Low Risk</strong></p>
+<ul>
+<li>Age &ge; 60 years</li>
+<li>Chronic kidney disease</li>
+<li>Diabetes Mellitus</li>
+<li>Hyperlipidemia</li>
+<li>'Family History of Thrombophilia</li>
+</ul>
+<p><strong>Moderate Risk</strong></p>
+<ul>
+<li>Venous thrombosis (DVT/PE)</li>
+<li>Arrhythmia</li>
+<li>450 &le; QTc , 480 ms (men); 460 &le; QTc , 480 ms (women)</li>
+<li>Age 65&ndash;74 years</li>
+<li>Hypertension</li>
+</ul>
+<p><strong>High Risk</strong></p>
+<ul>
+<li>HF/cardiomyopathy/ CTRCD</li>
+<li>Abnormal ankle-brachial pressure index</li>
+<li>Pulmonary Hypertension</li>
+<li>QTc &ge; 480 ms</li>
+<li>LVEF 50%</li>
+<li>Age &ge; 75 years</li>
+<li>CVD 10-year risk score &gt;20%</li>
+<li>Current smoker or significant smoking history</li>
+</ul>
+<p><strong>Very High Risk</strong></p>
+<ul>
+<li>Arterial vascular disease</li>
+<li>Arterial thrombosis with TKI</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Nilotinib</strong><br />Baseline: Physical exams, BP, ECG. lipid profile, HBA1c (Class I), TTE (Class IIa), ABI (class IIb)<br />3 months: Physical exams, BP, ECG. lipid profile, HBA1c (Class I)<br />6 months: Physical exams, BP, ECG. lipid profile, HBA1c (Class I), ABI (class IIb)<br />9 months: Physical exams, BP, ECG. lipid profile, HBA1c (Class I)<br />12 months: Physical exams, BP, ECG. lipid profile, HBA1c (Class I), ABI (class IIb)<br />Every 6-12 months: Physical exams, BP, ECG. lipid profile, HBA1c (Class I), ABI (class IIb)<br />QTc measurement should be considered at baseline, at 2 and 4 weeks after starting nilotinib, and 2 weeks after any dose increase.</p>
+<p><strong>Dasatinib</strong><br />Baseline: Physical exams, BP, ECG. lipid profile, HBA1c, TTE (Class I)<br />3 months: : Physical exams, BP (Class I), TTE (high and very high risk patients) (Class IIa)<br />6 months : Physical exams, BP (Class I), TTE (high risk patients) (Class IIa)<br />9 months: Physical exams, BP (Class I), TTE (high risk patients) (Class IIa)<br />12 months: Physical exams, BP (Class I), TTE (high risk patients) (Class IIa)<br />Every 6-12 months: Physical exams, BP (Class I), TTE (Class IIb)</p>
+<p><strong>Bosutinib</strong><br />Baseline: Physical exams, BP, ECG. lipid profile, HBA1c (Class I), TTE (Class IIa) <br />3 months: Physical exams, BP,Class I)<br />6 months: Physical exams, BP (Class I)<br />9 months: Physical exams, BP (Class I) <br />12 months: Physical exams, BP (Class I)<br />Every 6-12 months: Physical exams, BP (Class I)</p>
+<p><strong>Ponatinib</strong><br />Baseline: : Physical exams, BP, ECG. lipid profile, HBA1c (Class I), TTE (Class IIa), ABI (class IIb)<br />3 months : Physical exams, BP, ECG. lipid profile, HBA1c (Class I) ,TTE (high and VH risk patients) Class IIa<br />6 months: Physical exams, BP, ECG. lipid profile, HBA1c (Class I) ,TTE (high and VH risk patients) Class IIa, ABI (class IIb)<br />9 months: :Physical exams, BP, ECG. lipid profile, HBA1c (Class I) ,TTE (high and VH risk patients) Class IIa<br />12 months: : Physical exams, BP, ECG. lipid profile, HBA1c (Class I) ,TTE (high and VH risk patients) Class IIa, ABI (class IIb)<br />Every 6-12 months: : Physical exams, BP, ECG. lipid profile, HBA1c (Class I) ,TTE, ABI (class IIb)</p>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Vascular events</strong><br />The most effective means of managing vascular events is prevention.<br />Individuals at high risk should avoid Ponatinib which is reserved for advanced disease in the presence of T3151 Mutation. The management of vascular adverse events that develop during Nilotinib or Ponatinib therapy should be individualized.</p>
+<p>Patients with low-grade peripheral arterial occlusive disease should be treated with optimal peripheral arterial occlusive disease therapy and all cardiovascular risk factors should be aggressively managed.</p>
+<p>High-grade peripheral arterial occlusive disease on the other side is more difficult which might require continuing the medication based on the mutation of cancer or replacing the medication.</p>
+<p>Lowering the dose and shortening the dose of TKI is also believed to reduce adverse event rates<br />Patients who develop cerebral ischemia or myocardial infarction requiring interventional revascularization should be considered for other therapy along with anticoagulation and antiplatelet guidelines<br />(<a href=""https://ashpublications.org/blood/article/125/6/901/34054/Vascular-safety-issues-in-CML-patients-treated"">Valent, 2015</a>) (<a href=""https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10286131/"">Kaddoura, 2023</a>)<br /> <br /><strong>QTc Prolongation</strong></p>
+<p>The incidence of QTc prolongation is higher in TKIs (6.8%) than in other anticancer agents (1.2%). Although it is relatively common with TKIs, especially the 3rd generation, Prolong QTc is a black box warning for Nilotinib. Inhibition of P13K signaling with subsequent changes in Na and K current, account for most of the QTc prolongation seen.</p>
+<p>A change in QT interval more than 60ms from baseline doesn&rsquo;t warrant a change in TKI as long as QTc is below 500ms.</p>
+<p>While on TKI, other causes of QTc prolongation should be identified and treated. Hypokalemia, hypomagnesaemia, hypocalcemia. The presence of other TKI-prolonging drugs should be looked at.<br /> <br /><strong>Before starting QT-prolonging TKI</strong></p>
+<ul>
+<li>Establish a baseline with EKG, QTc with Fridericia formula preferably.</li>
+<li>QTc &gt; 480ms: correct electrolytes, check for drug-drug interactions, and rule out structural disease
+<ul>
+<li>If persistent QTc prolongation refer to cardiology/ Electrophysiology and choose an alternative TKI</li>
+</ul>
+</li>
+<li>If the abnormality is treated and Qtc normalizes, start TKI, patient education, and follow-up</li>
+<li>QTc &le; 480: start TKI, patient education, and follow-up</li>
+<li>While on TKI: A change in QT interval more than 60ms from baseline doesn&rsquo;t warrant a change in TKI as long as QTc is below 500ms. (<a href=""https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10286131/"">Kaddoura, 2023</a>)</li>
+</ul>
+<p><strong>Fluid retention</strong></p>
+<p>TKI usage commonly leads to fluid retention as a side effect, believed to result from the inhibition of PDGFR signaling, which plays a role in interstitial fluid homeostasis.<br />Standard management involves the use of diuretics and providing supportive care. Evaluation of cardiac, renal, hepatic, and thyroid functions, along with monitoring serum protein and albumin levels, is essential. If necessary, the TKI dosage can be reduced or discontinued. Ultrasound is recommended for diagnosing and monitoring patients exhibiting signs of pulmonary edema, pericardial or pleural effusion, as well as ascites. (<a href=""https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10286131/"">Kaddoura, 2023</a>)</p>"
+HSCT,"<p>Hematopoietic Stem Cell Transplantation also known as bone marrow transplant is a medical procedure that involves infusing healthy hematopoietic stem cells to patients with dysfunctional or depleted bone marrow after a course of radiotherapy and/or chemotherapy. HSCT can be used in treating non-malignant conditions like hemoglobinopathies(sickle cell disease, Thalassemia), immune deficiency syndromes, and malignant conditions like multiple myeloma, Hodgkin and Non-Hodgkin lymphoma, and AML. ALL and CML. In cancer treatment, the rationale of this process is to eradicate residual cancer cells through graft versus tumor effect to cure the malignancy. (<a href=""https://www.ncbi.nlm.nih.gov/books/NBK536951/"">Khaddour et al,2023</a>)</p>","<p>Various cardiac complications have been associated with different components of hematopoietic stem cell transplantation (HSCT), including the use of total body radiation in ablative therapy combined with a multi-drug conditioning regimen as well as transplant-related complications. The irradiation process induces calcification, thickening, and stiffness in the pericardium, potentially leading to constrictive pericarditis. The drug dimethyl sulfoxide, utilized for stem cell preservation, has been linked to adverse effects such as bradycardia and cardiac arrest. Also, certain chemotherapy medications like cytarabine and cyclophosphamide may contribute to conditions like congestive heart failure and pericarditis. Complications associated with transplantation, such as graft-versus-host Disease (GVHD), result in pericardial effusion, dysrhythmias, and coronary artery disease (CAD). Thrombotic microangiopathy from endothelial injury may also lead to systemic and pulmonary hypertension. (<a href=""https://www.acc.org/latest-in-cardiology/articles/2021/02/13/15/28/acute-cv-complications-of-hematopoietic-stem-cell-transplantation"">Ryan et al,2021</a>) (<a href=""https://www.ahajournals.org/doi/pdf/10.1161/JAHA.121.021686"">Belzile-Dugas et al,2021</a>))</p>","<ul>
+<li>Autologous HSCT</li>
+<li>Allogeneic HSCT</li>
+</ul>","<p><strong>Early phase following HSCT (&lt;100 days):</strong></p>
+<ul>
+<li>Atrial fibrillation (Most frequent CV event)</li>
+<li>Heart Failure</li>
+<li>Hypertension</li>
+<li>Hypotension</li>
+<li>Pericardial effusion</li>
+<li>Venous Thrombo-embolism</li>
+</ul>
+<p><strong>Late phase following HSCT:</strong></p>
+<ul>
+<li>Diabetes Mellitus</li>
+<li>Dyslipidemia</li>
+<li>Metabolic syndrome</li>
+<li>Hypertension</li>
+<li>Heart Failure</li>
+<li>Cardiomyopathy</li>
+<li>CAD</li>
+<li>Conduction disorders</li>
+<li>Pericardial effusion</li>
+<li>Chronic GVHD</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC,2022</a>)</p>","<p><strong>High risk</strong></p>
+<ul>
+<li>Allogeneic HSCT</li>
+<li>Pre-existing CVD (AF or atrial flutter, sick sinus syndrome, ventricular arrhythmias, CAD, MI, moderate-to-severe VHD, and HF or LVEF &lt; 50%)</li>
+<li>Multiple uncontrolled CVRF</li>
+<li>Cancer treatment history( Mediastinal or mantle field radiation, alkylating agents, &gt;250 mg/m2 doxorubicin or equivalent)</li>
+<li>Conditioning schemes (Total body irradiation, alkylating agents.)</li>
+<li>GVHD</li>
+<li>Thrombotic microangiopathy</li>
+<li>Sepsis</li>
+</ul>
+<p><em>*The presence of atrioventricular (AV) conduction delays and premature atrial complexes are associated with the development of atrial arrhythmias in patients undergoing autologous hematopoietic stem cell transplant</em></p>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Low Risk</strong><br />Baseline before HSCT: CV Assessment, ECG, TTE (class I) NP (class IIa)<br />3 months after HSCT: CV Assessment, ECG (class I) TTE, and NP (If new cardiac symptoms occur at any time)<br />12 months after HSCT:CV Assessment, ECG (class I) TTE, and NP (If new cardiac symptoms occur at any time)<br />&gt; 12 months (yearly): CV Assessment, ECG (class I) TTE, and NP (If new cardiac symptoms occur at any time)</p>
+<p><strong>High Risk</strong><br />Baseline before HSCT: CV Assessment (physical examination, BP, lipid profile, and HbA1c), ECG, TTE (class I) NP (class IIa), CPET (select patients)<br />3 months after HSCT: CV Assessment (physical examination, BP, lipid profile, and HbA1c), ECG, TTE, NP (class I) <br />12 months after HSCT: CV Assessment (physical examination, BP, lipid profile, and HbA1c), ECG, TTE, NP (class I) <br />&gt; 12 months (yearly): CV Assessment (physical examination, BP, lipid profile, and HbA1c), ECG, NP (class I), TTE( select patients)</p>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p>HSCT comprises several therapies at each stage and involves different drug regimens. <br />Cardiotoxicities related to HSCT are directly related to the chemotherapy agent used. <br />Treatment regimens that include cardiotoxic drugs, i.e., anthracyclines, tyrosine kinase inhibitors (TKI), and chest radiation, subsequently increase the risk of developing both acute and late cardiovascular complications post-HSCT <br />(Refer to sections on anthracyclines, TKI and radiotherapy for their respective complications and management)</p>
+<p>The typical therapeutic approach for cardiac complications associated with HSCT relies on established treatments for chemotherapy-induced heart problems. This includes using angiotensin-converting enzyme (ACE) inhibitors, angiotensin II receptor blockers, and certain beta-blockers. The protective benefits of ACE inhibitors and beta-blockers against heart failure induced by anthracyclines have been evidenced in numerous clinical studies. While the ACE inhibitor enalapril has shown efficacy in preventing reductions in left ventricular ejection fraction (LVEF) in patients treated with doxorubicin and/or daunorubicin at cumulative doses of 200 mg/m2 or more, this effect has not yet been demonstrated in the context of autologous hematopoietic stem cell transplantation. Data is however limited in patients undergoing allogeneic HSCT. (<a href=""https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9692512/"">Zhao, 2022</a>)</p>"
+Anthracyclines,"<p>Anthracyclines are a class of drugs derived from the Streptomyces bacterium used in the treatment of various types of cancers. After the first type (daunorubicin) was discovered in the early 1960s, there have been other different types also approved for treatment. Cancers that anthracyclines are used to treat include Acute lymphocytic and myelogenous leukemia, Hodgkin's and non-Hodgkin's lymphoma, breast cancer, and ovarian cancer. (<a href=""https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7093379/"">Cardinale et al, 2020</a>)</p>","<p>There are several proposed mechanisms of action of the anthracycline medication which include interaction with enzyme topoisomerase-II, &nbsp;DNA intercalation, DNA adduct formation, and Reactive oxygen species generation to cause DNA damage and lipid peroxidation. All these mechanisms account for the cardiotoxic and cytostatic action of this class of medication.(<a href=""https://www.ncbi.nlm.nih.gov/books/NBK538187/"">Venkatesh et al, 2023</a>)</p>
+<p>The main mechanism of cardiotoxicity is believed to be through the inhibition of the enzyme topoisomerase II in the cardiac myocytes. This leads to activation of cell death pathways, inhibition of mitochondrial biogenesis, and deposition of ROS resulting in cardiac myocyte dysfunction. (<a href=""https://pubmed.ncbi.nlm.nih.gov/29217634/"">Henriksen, 2018</a>)</p>","<ul>
+    <li>Daunorubicin</li>
+    <li>Doxorubicin</li>
+    <li>Idarubicin</li>
+    <li>Epirubicin</li>
+    <li>Valrubicin</li>
+    <li>Mitoxantrone </li>
+</ul>
+<p>(<a href=""https://www.ncbi.nlm.nih.gov/books/NBK538187/"">Venkatesh,et al.2023</a>)</p>","<ul>
+<li>Congestive cardiac failure</li>
+<li>ANT-induced cardiomyopathy</li>
+</ul>","<p><strong>Very HIgh Risk</strong></p>
+<ul>
+<li>Heart Failure</li>
+<li>Cardiomyopathy&nbsp;</li>
+<li>Cancer therapy-related cardiac dysfunction (CTRCD)</li>
+</ul>
+<p><strong>High Risk</strong></p>
+<ul>
+<li>Severe Valvular Heart Disease</li>
+<li>Myocardial Infarction or PCI or CABG</li>
+<li>Stable Angina</li>
+<li>LVEF &lt;50%</li>
+<li>Age ≧ 80 years</li>
+<li>Previous exposure to Anthracyclines</li>
+<li>Previous radiation to Lt chest/mediastinum</li>
+</ul>
+<p><strong>Moderate Risk</strong></p>
+<ul>
+<li>LVEF 50 - 54%</li>
+<li>Age 65 - 79 years &nbsp;</li>
+</ul>
+<p><strong>Low risk</strong></p>
+<ul>
+<li>Elevated baseline cTn</li>
+<li>Elevated baseline NP</li>
+<li>Hypertension SBP &gt;140 mmHg , DBP&gt; 90 mmHg, or on treatment</li>
+<li>Chronic Kidney Disease (eGFR , 60 mL/min/1.73 m2)</li>
+<li>Diabetes Mellitus (HbA1c &gt; 7.0% or &gt;53 mmol/mol, or on treatment)</li>
+<li>Non-Anthracycline chemotherapy</li>
+<li>Current smoker or sig smoking history</li>
+<li>Obesity (BMI &gt; 30kg/m&sup2;)</li>
+</ul>
+<p>&nbsp;</p>
+<p style=""text-align: center;""><strong>Risk categories for asymptomatic adults who are childhood and adolescent cancer survivors</strong></p>
+<table style=""width: 100%;"">
+<tbody>
+<tr style=""height: 13.3334px;"">
+<td style=""width: 33.3333%; height: 13.3334px;""><strong>Very high risk</strong></td>
+<td style=""width: 33.3333%; height: 13.3334px;"">Total Doxorubicin* &ge;400 mg/m2</td>
+<td style=""width: 33.3333%; height: 13.3334px;"">Combination therapy RT dose &gt;15,&nbsp; &ge;100</td>
+</tr>
+<tr style=""height: 13px;"">
+<td style=""width: 33.3333%; height: 13px;""><strong>High risk</strong></td>
+<td style=""width: 33.3333%; height: 13px;"">Total Doxorubicin* 250 - 399 mg/m2</td>
+<td style=""width: 33.3333%; height: 13px;"">Combination therapy RT dose 5-15,&nbsp; &ge;100</td>
+</tr>
+<tr style=""height: 13px;"">
+<td style=""width: 33.3333%; height: 13px;""><strong>Moderate risk</strong></td>
+<td style=""width: 33.3333%; height: 13px;"">Total Doxorubicin* 100 - 249 mg/m2</td>
+<td style=""width: 33.3333%; height: 13px;"">Combination therapy&nbsp; &lt;5,&nbsp; &ge;100</td>
+</tr>
+<tr style=""height: 13px;"">
+<td style=""width: 33.3333%; height: 13px;""><strong>Low risk</strong></td>
+<td style=""width: 33.3333%; height: 13px;"">Total Doxorubicin* &lt;100mg/m2&nbsp;</td>
+<td style=""width: 33.3333%; height: 13px;"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><em>* or Doxorubicin Equivalent</em></p>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC,2022</a>)</p>","<p><strong>Low Risk</strong><br />Baseline: TTE, ECG (class I), cTn/ NP (class IIa)<br />C2: cTn/ NP (class IIb)<br />C4: cTn/ NP, TTE (class IIb)<br />C6: cTn/ NP(class IIb)<br />3 Months Post Tx: cTn/ NP (class IIb)<br />12 Months Post Tx: TTE (class I)<br />In low-risk patients, additional echocardiography may be considered after a cumulative dose of &ge;250 mg/m2 of doxorubicin or equivalent. (class IIb)<br />low-risk patients receiving a cumulative dose of &ge;250 mg/m2 of doxorubicin or equivalent cTn/ NP</p>
+<p><strong>Moderate Risk</strong><br />Baseline: TTE, ECG (class I), cTn/ NP (class IIa)<br />C2: cTn/ NP (class IIa)<br />C4: cTn/ NP, TTE (class IIa) <br />C6:cTn/ NP (class IIa)<br />3 Months Post Tx: cTn/ NP (class IIa)<br />12 Months Post Tx: TTE (class I)<br />In moderate-risk patients, additional echocardiography should be considered after a cumulative dose of &ge;250 mg/m2 of doxorubicin or equivalent. (class IIa)</p>
+<p><strong>Very High Risk + High Risk</strong><br />Baseline: cTn/ NP , TTE , ECG<br />C1: cTn/ NP<br />C2: cTn/ NP , TTE<br />C3: cTn/ NP <br />C4: cTn/ NP , TTE<br />C5: cTn/ NP <br />C6: cTn/ NP , TTE<br />3 Months Post Tx: cTn/ NP , TTE<br />12 Months Post Tx: cTn/ NP , TTE<br /><em>* All recommendations are (class I)</em></p>
+<p><strong>Cardiac monitoring protocol for pregnant women receiving anthracycline-based chemotherapy</strong><br /><span style=""text-decoration: underline;"">1st Trimester:</span><br />Baseline: Physical examination, ECG, TTE(class Ia), cTn/NP(class IIb)<br />Week 12: Physical examination, ECG, TTE (class Ia), cTn/NP(class IIb)</p>
+<p><strong>Anthracycline chemotherapy:</strong><br /><span style=""text-decoration: underline;"">Start at Week 20:</span><br />Every 4 -8 weeks: Physical examination, ECG, TTE(class Ia), cTn/NP(class IIb)<br />Week 34: Physical examination, ECG, TTE(class Ia), cTn/NP(class IIb)</p>
+<p><strong>Follow-up:</strong><br />Delivery: physical examination<br />12 months post-delivery: Physical examination, ECG, TTE(class Ia), cTn/NP(class IIb)<br />(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Diagnosis of anthracycline chemotherapy-related cardiac dysfunction:</strong></p>
+<ul>
+<li>New CV symptoms</li>
+<li>New abnormalities in cardiac function on CV imaging and/or</li>
+<li>New increases in cardiac biomarkers</li>
+</ul>
+<p><strong>Management of anthracycline chemotherapy-related cardiac dysfunction<br /></strong><span style=""text-decoration: underline;"">Asymptomatic CTRCD</span><br /><strong>Mild (LVEF &gt;50%)</strong></p>
+<ul>
+<li>Continue Anthracycline with Cardiovascular monitoring</li>
+<li>If GLS decreases &gt;15% or Tn increases &rarr; ACE-I/ARB and/or BB (Class IIa)</li>
+<li>If NP increase &rarr; ACE-I/ARB and/or BB (Class IIb)</li>
+</ul>
+<p><strong>Moderate (LVEF 40-49%) and Severe (LVEF &lt;40%)</strong></p>
+<ul>
+<li>Interrupt anthracycline (Class I)</li>
+<li>Multidisciplinary team (Class I)</li>
+<li>Start HF therapy (Class I)</li>
+</ul>
+<p><br /><span style=""text-decoration: underline;"">Symptomatic CTRCD</span><br /><strong>Mild (LVEF &gt;50%)</strong></p>
+<ul>
+<li>MDT approach regarding interruption vs continuation of anthracycline, Start HF therapy</li>
+</ul>
+<p><strong>Moderate (LVEF 40-49%)</strong></p>
+<ul>
+<li>Interrupt anthracycline</li>
+<li>Multidisciplinary team</li>
+<li>Start HF therapy</li>
+</ul>
+<p><strong>Very severe/Severe (LVEF &lt;40%)</strong></p>
+<ul>
+<li>Discontinue Anthracycline</li>
+<li>Multidisciplinary team</li>
+<li>Start HF therapy</li>
+</ul>
+<p><em>* All recommendations above are class I</em></p>
+<p><strong>If there is a compelling reason to continue anthracycline chemotherapy, three other strategies exist in addition to continuing the above guideline-based HF therapy.</strong></p>
+<ol>
+<li>Minimizing the dose of anthracycline chemotherapy administered.</li>
+<li>Liposomal anthracyclines may be considered in patients with moderate or severe symptomatic or asymptomatic CTRCDc who require further anthracycline chemotherapy to reduce the risk of further CV toxicity (Class IIb)</li>
+<li>Pretreatment with Dexrazoxane may be considered in patients with moderate or severe symptomatic or asymptomatic CTRCD who require further anthracycline chemotherapy to reduce the risk of further CV toxicity. (Class IIb)</li>
+</ol>
+<p><strong>Primary prevention</strong><br />Neurohormonal therapies during anthracycline chemotherapy (with or without subsequent trastuzumab treatment) reduced the risk of significant LVEF decline during follow-up in several small randomized controlled trials.Renin&ndash;angiotensinn&ndash;aldosterone system blockers, beta-blockers, and mineralocorticoid receptor antagonists have a significant benefit in preventing LVEF reduction.* ACE-I or ARB and beta-blockers recommended for HFf should be considered for primary prevention in high- and very high-risk patients receiving anthracyclines(IIa)<br />Dexrazoxane and liposomal anthracyclines are currently approved in patients with high and very high CTRCD risk or who have already received high cumulative anthracyclines doses. (IIb)<br /><br />Pegylated and non-pegylated liposomal doxorubicin modify pharmacokinetics and tissue distribution without compromising antitumor efficacy. In both the adjuvant and metastatic context, liposomal doxorubicin was reported to be less cardiotoxic than conventional doxorubicin. Liposomal daunorubicin is also available for acute leukemia patients in place of daunorubicin when pre-existing LVD is present (IIa)<br /><em>*No statistical differences in the incidence of overt HF or other clinical outcomes were demonstrated - in patients on Anthracyclines. (low-risk patients).</em> (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC,2022</a>)</p>"
+HER2 Therapies,"<p>Cancer Therapy-Related Cardiac Dysfunction (CTRCD) is a term that refers to the cardiac injury, cardiomyopathy or Heart Failure caused by cancer therapies. This encompasses a broad spectrum of possible presentations and its associations with various cancer therapies, including chemotherapy, target agents, immune therapies and radiation therapy. For HER2 Therapies, the most common CTRCD is Left ventricular Dysfunction (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC,2022</a>).&nbsp;</p>","<p><br />The main mechanism of cardiotoxicity is believed to be through the inhibition of the enzyme topoisomerase II in the cardiac myocytes. This leads to activation of cell death pathways, inhibition of mitochondrial biogenesis, and deposition of ROS resulting in cardiac myocyte dysfunction. (<a href=""https://pubmed.ncbi.nlm.nih.gov/29217634/"">Henriksen, 2018)</a>)</p>","<ul>
+<li>Trastuzumab</li>
+<li>Trastuzumab emtansine</li>
+<li>Trastuzumab deruxtecan</li>
+<li>Pertuzumab</li>
+<li>Neratinib</li>
+<li>Tucatinib</li>
+</ul>","<p>&nbsp;</p>
+<ul>
+<li>Left Ventricular Dysfunction (up to 15-20% of patients)</li>
+<li>Heart Failure</li>
+</ul>
+<p>*The incidence of Left Ventricular Dysfunction (LVD) in regimens associated with anthracycline ranges from 4% to 18.6%, while in regimens with HER-2 it is around 0.5% to 3.2%<br /> (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC,2022</a>).</p>
+<p>&nbsp;</p>","<p>Pre-treatment risk assessment should ideally be performed using a recognized risk stratification method where multiple risk factors are incorporated to determine patient-specific risk. One useful tool for baseline risk assessment is the HFA-ICOS risk assessment tool, which can be found here.</p>
+<p><strong>For all patients at baseline</strong></p>
+<ul>
+<li>Comprehensive cardiovascular history and physical exam</li>
+<li>EKG (Class I) If arrhythmias or prolonged QTc, check and correct for precipitant factors (Class I)</li>
+<li>If suspected Cardiovascular Disease, refer to a cardiologist (Class I)</li>
+<li>Cardiology referral is recommended for patients with cancer and pre-existing cardiovascular disease or abnormal findings at baseline cardiovascular (CV) toxicity risk assessment who require potential cardiotoxic anticancer therapy (Class I) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</li>
+</ul>
+<p><span style=""text-decoration: underline;""><strong>Additional tests at baseline evaluation according to HFA-ICOS risk stratification</strong></span><br /><strong>Low and Moderate Risk</strong></p>
+<ul>
+<li>Trans-Thoracic Echocardiogram (TTE) (Class I) to measure LVEF and GLS. If LVEF and GLS are reduced, refer to a cardiologist.</li>
+<li>c-Troponin and Natriuretic Peptides (Class IIb). If c-Troponin and NP increased, refer to a Cardiologist (Class I).</li>
+<li>Cardiology referral may be considered for patients with moderate Cardiovascular Risk (Class IIb).</li>
+</ul>
+<p><strong>High and Very High Risk</strong></p>
+<ul>
+<li>Trans-Thoracic Echocardiogram (TTE) (Class I) to measure LVEF and GLS. If LVEF and GLS are reduced, refer to a&nbsp;cardiologist.</li>
+<li>c-Troponin and Natriuretic Peptides (Class IIb). If c-Troponin and NP increased, refer to a Cardiologist (Class IIa).</li>
+<li>Cardiology referral is recommended in high-risk and very high-risk patients before anticancer therapy (Class I)</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>
+<p>&nbsp;</p>","<p><strong>Low and Moderate Risk</strong><br />Baseline: ECG, TTE (class I), cTn/NP (class IIb)<br />3 Months: TTE (class I), cTn/NP (class IIb)<br />6 Months: TTE (class I), cTn/NP (class IIb)<br />9 Months: TTE (class I), cTn/NP (class IIb)<br />12 Months: TTE (class I), cTn/NP (class IIb)<br />12 Months Post Tx: TTE (class I), cTn/NP (class IIb)</p>
+<p><strong>High Risk</strong><br />Baseline: ECG, TTE, cTn/NP (class I) <br />3 Months: TTE (class I), cTn/NP (class IIa)<br />6 Months: TTE (class I), cTn/NP (class IIa)<br />9 Months: TTE (class I), cTn/NP (class IIa)<br />12 Months: TTE (class I), cTn/NP (class IIa)<br />3 Months Post Tx: TTE (class I), cTn/NP (class IIb)<br />12 Months Post Tx: TTE (class I), cTn/NP (class IIb)</p>
+<p><em>*In low-risk HER2+ EBC patients who are asymptomatic and with a normal assessment after 3 months, reducing TTE monitoring to every 4 months may be considered (Class IIb, Level C). </em><br /><em>In low- and moderate-risk metastatic HER2+ disease, TTE surveillance can be reduced to every 6 months after the first year in asymptomatic patients with normal TTE assessment (Class I, Level C). </em><br /><em>In high- and very high-risk metastatic HER2+ disease, TTE monitoring every 2&ndash;3 cycles may be considered depending on the absolute risk and local availability.</em></p>
+<p>Cardiac magnetic resonance should be considered for assessing cardiac function when TTE is unavailable or not diagnostic.</p>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Cancer Therapy Related Cardiovascular Toxicity</strong><br />The most common manifestation of Cardiovascular toxicity secondary to anti-HER-2 Therapies is Left Ventricular Dysfunction. Patients with Cancer-Related Cardiovascular Dysfunction (CTRCD) can present symptomatic or asymptomatic, and with mild, moderate or severe toxicity. Recommendations in management vary according to these distinctions. For all patients who develop CTRCD, regardless of symptoms or severity of CTRCD, a multidisciplinary team is recommended to guide clinical decisions. For patients who continue HER2-targeted cancer therapies and in those who restart after an interruption following resolution of HF signs and symptoms and LVEF &gt;40%, TTE and cardiac serum markers (troponin and NPs) every 2 cycles for the first 4 months is recommended after restarting anti-HER2 therapies (ESC, 2022).</p>
+<p><strong>Asymptomatic CTRCD</strong><br /><strong>Mild</strong> (LVEF &gt;50%)</p>
+<ul>
+<li>Continue anti-HER2 therapies under more frequent cardiovascular monitoring (Class I). </li>
+<li>If GLS decreases &gt;-15% or cTn and NP increases, consider starting ACE-I/ARB and/or Beta-Blockers (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">Class IIa</a>).</li>
+</ul>
+<p><strong>Moderate</strong> (LVEF 40-49%)</p>
+<ul>
+<li>Consider continuation of anti-HER2 therapies with more frequent cardiovascular monitoring (Class IIa).</li>
+<li>Start Heart Failure Therapy with ACE-I/ARB and/or Beta-Blockers (Class I).</li>
+</ul>
+<p><strong>Severe</strong> (LVEF &lt;40%)</p>
+<ul>
+<li>Interruption of Anti-HER2 therapies (Class I). </li>
+<li>Decision to restart anti-HER2 therapy after treatment should be addressed with a multidisciplinary team (Class I).</li>
+<li>Start Heart Failure Therapy with ACE-I/ARB and/or Beta-Blockers (Class I).</li>
+</ul>
+<p><strong>Symptomatic</strong> CTRCD<br /><strong>Mild</strong> (LVEF &gt;50%)</p>
+<ul>
+<li>Multidisciplinary approach regarding interruption vs continuation of anti-HER2 (Class I)</li>
+<li>Start Heart Failure Therapy with ACE-I/ARB and/or Beta-Blockers (Class I)</li>
+</ul>
+<p><strong>Moderate</strong> (LVEF 40-49%) and Severe (LVEF &lt;40%)</p>
+<ul>
+<li>Interruption of Anti-HER2 therapies (Class I).</li>
+<li>Decision to restart anti-HER2 therapy after treatment should be addressed with a multidisciplinary team. (Class I)</li>
+<li>Start Heart Failure Therapy with ACE-I/ARB and/or Beta-Blockers (Class I)</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>"
+CAR-T Cells,"<p>Chimeric antigen receptor T cell and tumor-infiltrating lymphocytes therapies (CAR-T therapy). This therapy has been associated with Left Ventricular Dysfunction (LVD), Heart Failure (HF), cardiac arrhythmias, pericardial effusion, Takotsubo Cardiomyopathy, and cardiac arrest. However, all the mentioned cardiotoxic effects have been associated with the occurrence of Cytokine Release Syndrome (CRS) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>). CRS is a systemic inflammatory response characterized by fever and one more of the following: hypotension, hypoxia and organ toxicity (<a href=""https://doi.org/10.1016/j.jaccao.2022.07.014"">Ganatra et al, 2022</a>).&nbsp;</p>","<p>CAR-T cells are patient-derived T cells that are genetically engineered to target a tumor-specific antigen, inducing tumor cell apoptosis (<a href=""https://doi.org/10.1056%2FNEJMra1706169"">June and Sadelain, 2018</a>). This tumor-cell apoptosis also leads to recruitment of other local immune cells like monocytes, macrophages and dendritic cells. It is this activation of the immune system by T-cell therapies that leads to an increase in circulating cytokines, such as IL-2, IFN-alpha, IL-6, and granulocyte-macrophage colony-stimulating factors. IL-6 plays a key role in the mediation of CRS and in the pathophysiology of T-cell therapy-associated cardiotoxicity (<a href=""https://doi.org/10.1056%2FNEJMra1706169"">June and Sadelain, 2018</a>). The up-regulation of IL-6 activates a signaling pathway that promotes oxidative stress, which leads to mitochondrial dysfunction and cardiac hypertrophy. Additionally, IL-6 alters the handling of calcium in the myocytes, reducing myocardial contractility, and potentially contributing to myocardial dysfunction and arrhythmias (<a href=""https://doi.org/10.3389/fphys.2018.01866"">Ali et al, 2019</a>).</p>","<p><strong>Target Antigen Cluster of Differentiation 19 (CD19)</strong></p>
+<ul>
+<li>Tisagenlecleucel</li>
+<li>Axicabtagene ciloleucel</li>
+<li>Brexucabtagene autoleucel</li>
+<li>Lisocabtagene maraleucel</li>
+</ul>
+<p><strong>Target Antigen B-cell maturation antigen (BCMA)</strong></p>
+<ul>
+<li>Idecabtagene vicleucel</li>
+<li>Ciltacabtagene autoleucel</li>
+</ul>
+<p>(<a href=""https://www.cancer.gov/about-cancer/treatment/research/car-t-cells"">National Cancer Institute, 2022</a>)</p>","<p>The majority of the CV toxicities associated with CAR-T therapies have been associated with the occurrence of Cytokine Release Syndrome (CRS) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC Cardio-Oncology Guidelines, 2022</a>). CRS has a wide spectrum of presentation and can be divided in 4 grades according to severity:</p>
+<ul>
+<li>Grade 1: Temperature &ge; 38&ordm;C, No Hypotension, No Hypoxia</li>
+<li>Grade 2: Temperature &ge; 38&ordm;C with Hypotension not requiring vasopressors, and/or Hypoxia requiring low-flow nasal cannula</li>
+<li>Grade 3: Temperature &ge; 38&ordm;C with Hypotension requiring a vasopressor with or without vasopressin, and/or Hypoxia requiring high-flow nasal cannula, facemask, non-rebreather mask, or Venturi mask</li>
+<li>Grade 4: Temperature &ge; 38&ordm;C with Hypotension requiring multiple vasopressors (excluding) vasopressin, and/or Hypoxia requiring positive pressure ventilation (ie. CPAP, BiPAP, intubation and mechanical ventilation) (<a href=""https://doi.org/10.1016/j.bbmt.2018.12.758"">D.W. Lee et al, 2019</a>).</li>
+</ul>
+<p>CRS has been reported in 70% to 90% of patients undergoing CAR T-cell therapy, although most are mild in severity (Grade 1). Some patients exhibit more serious adverse effects (Grades 2-4), which are oftentimes associated with direct cardiotoxicity such as cardiomyopathy, HF, arrhythmias, myocardial infarction and circulatory collapse. Major Adverse Cardiovascular Events (MACE) has been reported in up to 20% of patients receiving CAR-T therapies (<a href=""https://doi.org/10.1016/j.jaccao.2022.07.014"">Ganatra et al, 2022</a>).</p>","<p><strong>High Risk</strong></p>
+<ul>
+<li>Heart Failure</li>
+<li>Coronary Artery Disease</li>
+<li>Moderate to Severe Valvular Heart Disease, particularly aortic stenosis or mitral regurgitation</li>
+<li>Arrhythmias (<a href=""https://doi.org/10.1093/eurheartj/ehac106"">Totzeck et al, 2022</a>).</li>
+</ul>
+<p><strong>Patients who need referral to a cardio-oncologist at baseline are those who:</strong></p>
+<ul>
+<li>Have 2 or more risk factors mentioned above</li>
+<li>Have elevated cardiac biomarkers at baseline</li>
+<li>Present an LVEF under 50% or normal LVEF with abnormal GLS on baseline TTE (<a href=""https://doi.org/10.1200/OP.22.00713"">Marar et al, 2023</a>).</li>
+</ul>","<p><strong>Baseline Risk assessment</strong><br />- ECG (Class I)<br />- Natriuretic peptides (Class I)<br />- Cardiac troponins for all patients (Class I) <br />- Baseline TTE is recommended for patients with pre-existing CVD before starting CAR-T therapies (Class I) <br />- Baseline TTE can be considered in all patients before starting CAR-T therapies (Class IIa) <br />- TTE at baseline should include GLS, which has been shown to decrease during CAR-T therapy (<a href=""https://doi.org/10.1093/eurheartj/ehac106"">Totzeck et al, 2022</a>).</p>
+<p><em>*Optimize hypertension, hyperlipidemia, and diabetes (particularly insulin-dependent) should also be done and efforts should be made to optimize patients regarding them (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</em></p>
+<p><strong>Recommended for all patients on day 0</strong></p>
+<ul>
+<li>Continuous telemetry</li>
+<li>Vital Signs every 4-6 hours</li>
+<li>Continuous pulse oximetry</li>
+<li>Serial troponin levels as indicated by cardiology or cardio-oncology (Marar et al, 2023).</li>
+</ul>
+<p><strong>For all patients, a day to day surveillance for toxicity is recommended</strong></p>
+<ul>
+<li>Day 0: Monitor for acute allergic reaction, anaphylaxis.</li>
+<li>Day 1-6: Monitoring of HR, blood pressure, body temperature. Frequent clinical assessments including neurological symptoms, signs of acute heart failure.</li>
+<li>Day 7: Repeat ECG, high sensitivity troponin, natriuretic peptides, TTE.</li>
+<li>Consider a Cardiac MRI if TTE is abnormal on day 7 after CAR-T therapy (<a href=""https://doi.org/10.1016/j.jaccao.2020.02.011"">Ghosh et al, 2020</a>).</li>
+<li>3 Months after initiation of CAR-T cell therapy: Outpatient visit with ECG, high sensitivity troponin, natriuretic peptides, TTE (<a href=""https://doi.org/10.1093/eurheartj/ehac106"">Totzeck et al, 2022</a>).</li>
+</ul>
+<p>&nbsp;</p>","<p><strong>Cytokine Release Syndrome Associated to CAR-T Cell Therapy</strong><br />Cytokine Release Syndrome is a phenomenon that is associated with CAR-T cell therapy, which involves a systemic inflammatory response with cytokines and cellular recruitment, mainly triggered by the activation of T cells upon the engagement of CAR by CD19. Such interaction leads to the release of other interleukins like IL-2, IFN-gamma, IL-6, and Granulocyte-Macrophage colony stimulating factor by activated T-Cells (<a href=""https://doi.org/10.1016/j.jaccao.2020.02.011"">Ghosh et al, 2020</a>). IL-6 has been shown to be a key mediator in this reaction. As stated earlier, CRS has a wide spectrum of presentation; a useful system to grade CRS by severity is that of the American Society of Transplantation and Cellular Therapy, which divides CRS into 4 Grades according to severity (See above)</p>
+<p>Management of CRS depends on the grade, and lower grade CRS (Grade &le;2), can be managed with supportive care. In severe cases (Grade &ge;3), it has been seen that CRS can be treated with IL-6 blockade. Two agents are available for this, tocilizumab and siltuximab. The evidence regarding CRS improvement with Tocilizumab is more robust compared to siltuximab. Sometimes, additinal treatment with steroids is also required (<a href=""https://doi.org/10.1016/j.jaccao.2020.02.011"">Ghosh et al, 2020</a>). The following management plan proposes a step-wise escalation to CRS after diagnosing and categorizing CRS using ASTCT consensus grading system (detailed above):</p>
+<ul>
+<li>If Grade 1 CRS, supportive treatment only</li>
+<li>If &ge;Grade 2 CRS, consider tocilizumab</li>
+<li>If persistent fevers, hypotension and/or hypoxia despite tocilizumab, consider use of corticosteroids (<a href=""https://doi.org/10.1016/j.jaccao.2020.02.011"">Ghosh et al, 2020</a>)</li>
+</ul>
+<p>More details on the particular management of CRS can be found in a review from 2017, where management is also divided according to ASTCT grading (<a href=""https://doi.org/10.1038/nrclinonc.2017.148"">Neelapu et al, 2017</a>). </p>"
+BTKI,"<p>Bruton Tyrosine Kinase Inhibitors (BTKIs) have revolutionized the treatment of lymphoid malignancies, like Chronic Lymphocytic Leukemia (CLL), B -cell malignancies like Mantle Cell Lymphoma (MCL), Marginal Zone Lymphomas (MZL) and Waldenstr&ouml;m Macroglobulinemia (WM) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>). BTKIs however are associated with a 3-5 fold increase in atrial fibrillation (AF), ventricular arrhythmias, bleeding, stroke, and new or worsened hypertension. These cardiotoxic effects were more evident with first generation BTKIs, like ibrutinib, although newer TKIs still appear to be linked with cardiotoxic effects (<a href=""https://doi.org/10.1016/j.jaccao.2023.09.002"">Quartermaine et al, 2023</a>).</p>","<p>Bruton Tyrosine Kinase (BTK) is a member of the Tec kinase family, which is a stress-activated kinase. It plays a role in antigen-dependent B-cell receptor signaling responsible for B-cell proliferation. The unchecked activation of this kinase triggers uncontrolled downstream cascades that are essential for the development of most B-cell malignancies (<a href=""https://doi.org/10.1056/nejmoa1215637"">Byrd et al, 2013</a>) . Most BTKIs interfere with the binding of BTK to downstream substrates. BTK is expressed in the cardiac tissue as well. The phosphoinositide 3-kinase (PI3K)-Akt pathway is regulated by BTK and may play a role in cardiac response to stress. Ibrutinib targets the alpha-subunit of P13K, which is predominantly expressed in cardiovascular tissue. It is still unclear what is the mechanism of cardiotoxicity of other more selective BTKIs.</p>","<p><strong>First generation BTKIs</strong></p>
+<ul>
+<li>Ibrutinib</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1016/j.jaccao.2023.09.002"">Quartermaine et al, 2023</a>)</p>
+<p><strong>Second generation BTKIs</strong></p>
+<ul>
+<li>Acalabrutinib</li>
+<li>Zanubrutinib</li>
+<li>Orelabrutinib</li>
+<li>Tirabrutinib</li>
+</ul>
+<p><a href=""https://doi.org/10.1186/s13045-022-01353-w"">(Alu et al, 2022</a>)</p>
+<p><strong>Third Generation BTKIs</strong></p>
+<ul>
+<li>Pirtobrutinib</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1016/S0140-6736(21)00224-5"">Mato et al, 2023</a>)</p>","<p>BTKIs have been associated with varying incidence and severity of the following cardiotoxicities:</p>
+<ul>
+<li>Atrial Fibrillation</li>
+<li>Ventricular Arrhythmias</li>
+<li>Hypertension</li>
+<li>Heart Failure</li>
+<li>Stroke</li>
+<li>Bleeding</li>
+</ul>",",""<p><strong>Baseline assessment for all patients</strong></p>
+<ul>
+<li>Comprehensive patient history and targeted CV examination</li>
+<li>ECG</li>
+<li>Blood pressure measurement</li>
+<li>Consider TTE for patients with high CV risk or established CV disease, such as valvular heart disease, particularly mitral valve disease, history of ventricular arrhythmias, clinical heart failure, or reduced LV function (Class I) (<a href=""https://doi.org/10.1182/bloodadvances.2022007938"">Farrukh et al, 2022</a>) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+</ul>
+<p><span style=""text-decoration: underline;""><strong>Surveillance and Management Subdivided by Pathology</strong></span><br /><strong>Atrial Fibrillation</strong></p>
+<ul>
+<li>Opportunistic screening for AF by pulse-taking or ECG rhythm strip is recommended at every clinical visit during BTKI therapy (Class I) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+<li>A TTE is recommended in all patients who develop AF during BTK inhibitor therapy (Class I) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+</ul>
+<p><strong>Hypertension</strong></p>
+<ul>
+<li>For Hypertension, Blood Pressure (BP) measurement is recommended for patients treated with BTKIs at every clinical visit (Class I) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+<li>Weekly home monitoring of BP during the first 3 months and every month thereafter should be considered for patients with BTKIs (Class IIa) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</li>
+<li>BP monitoring could also be done biweekly, and can be extended up to 6 months of BTKI therapy (<a href=""https://doi.org/10.1182/bloodadvances.2022007938"">Farrukh et al, 2022</a>).</li>
+</ul>
+<p><strong>Heart Failure</strong></p>
+<ul>
+<li>Monitor weight daily. Monitor BP twice weekly (<a href=""https://doi.org/10.1182/bloodadvances.2022007938"">Farrukh et al, 2022</a>).</li>
+<li>Manage care with a Multidisciplinary team or in collaboration with a cardio-oncologist (Farrukh et al, 2022).</li>
+</ul>
+<p><strong>Bleeding</strong></p>
+<ul>
+<li>Ibrutinib should be temporarily interrupted in patients requiring dual antiplatelet therapy (DAPT) and 3-7 days before invasive procedures (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC Cardio-Oncology Guidelines, 2022</a>).</li>
+<li>In case of emergency interventions, platelet transfusion should be considered to minimize bleeding risk (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC Cardio-Oncology Guidelines, 2022</a>).<br /><br /></li>
+</ul>","<p><strong>Atrial Fibrillation</strong></p>
+<ul>
+<li>CHA2DS2-VASc score should be considered for risk stratification for stroke/systemic thromboembolism, though it may underestimate the actual thromboembolic risk (Class IIa) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+<li>Long-term anticoagulation is recommended for stroke/systemic thromboembolism prevention in patients with cancer with AF and a CHA2DS2-VASc score &ge;2 (men) or &ge;3 (women) as per the 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation (Class I) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+<li>Direct Oral Anticoagulants (DOACs) should be considered for stroke prevention in preference to low molecular weight heparin (LMWH) and vitamin K antagonists (VKA) - excluding patients with mechanical heart valves or moderate-to-severe mitral stenosis- in patients without a high bleeding risk, significant drug&ndash;drug interactions, or severe renal dysfunction (Class IIa) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>) (<a href=""https://doi.org/10.1182/bloodadvances.2022007938"">Farrukh et al, 2022</a>).</li>
+<li>Left Atrial Appendage occlusion may be considered for stroke prevention in patients with cancer with AF and contraindications for long-term anticoagulation with a life expectancy &gt;12 months (Class IIa) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+<li>If recurrent episodes of AF while on ibrutinib, consider trial with acalabrutinib (<a href=""https://doi.org/10.1182/bloodadvances.2022007938"">Farrukh et al, 2022</a>).</li>
+</ul>
+<p><strong>Hypertension</strong></p>
+<ul>
+<li>Any cancer therapy associated with hypertension should be deferred or temporarily withheld until the BP is controlled to values &lt;160 mmHg (systolic) and &lt;100 mmHg (diastolic) (Class I) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+<li>ACE-I or ARB are the first-line antihypertensive drugs recommended for BP management in patients with cancer (Class I) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+<li>Diltiazem and verapamil are not recommended to treat arterial hypertension in patients with cancer due to their drug&ndash;drug interactions (Class I) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+</ul>
+<p><strong>Ventricular Arrhythmias</strong></p>
+<ul>
+<li>Recommendations on VA management on the ESC 2022 Cardio-Oncology Guidelines often make reference to the association of QTc prolongation, although it has been shown BTKIs can be associated to VAs without any preceding prolonged QTc. There are currently no recommendations on the management of VA without prolonged QTc in patients receiving cancer therapy. Given data on the risk of VAs, a Bcl-2 antagonist is preferred to any BTKI in of these patients (<a href=""https://doi.org/10.1182/bloodadvances.2022007938"">Farrukh et al, 2022</a>).</li>
+</ul>
+<p><strong>Heart Failure</strong></p>
+<ul>
+<li>To this date, there are no established recommendations on the management of Heart Failure associated with BTKI use. The ESC 2022 Cardio-Oncology Guidelines refer to Cancer Therapy- Related Cardiac Dysfunction (CTRCD), not Heart Failure, in the context of specific types of cancer therapy (ie. CTRCD associated with HER2-targeted therapies) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</li>
+<li>The International consensus statement on the management of cardiovascular risk of Bruton&rsquo;s tyrosine kinase inhibitors in CLL recommends initiating ACEi/ARB/ARNI plus Beta Blockers as tolerated and according to guidelines if there is any evidence suggesting the onset of HF. Additionally, periodic TTE or other type of LVEF assessment every 6-12 months is recommended in the setting of active HF (<a href=""https://doi.org/10.1182/bloodadvances.2022007938"">Farrukh et al, 2022</a>).</li>
+</ul>",
+Radiation-Induced Cardiovascular Disease,"<p>Radiation-Induced cardiovascular disease (RICVD) results from iatrogenic cardiac and vascular complications of therapeutic cancer radiation therapy (<a href=""https://doi.org/10.1161/JAHA.121.021686"">Bekzike, 2021</a>) resulting in cancer therapy related cardiovascular toxicity (CTR-CVT) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">Lyon, 2022</a>).&nbsp;</p>","<p>Ionizing radiation directly or indirectly damages DNA via ROS, leading to cell death. Acute effects are often inflammatory or reflect the depopulation of rapidly growing epithelial cells. Late effects often reflect fibrosis, vascular injury, or other gradual changes in slowly dividing tissues (<a href=""https://doi.org/10.3322/caac.21689"">Wang, 2021</a>).</p>
+<p>Mechanism of cardiotoxicity: The mechanism of cell death from radiation is not selective for tumor cells, and optimal delivery of RT is a balance between maximization of tumor dose and minimization of normal tissue dose. The heart is considered a radiosensitive organ (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">Lyon, 2022</a>). There is no safe threshold of cardiac radiation dose. For every Gray (Gy) of absorbed dose there is an ~7% increased risk of CAD with a high risk observed in patient with conventional risk factor (<a href=""https://doi.org/10.1016/B978-0-323-68135-3.00013-1"">Tuzovic, 2023</a>). Residual DNA damage may rarely cause delayed carcinogenesis (<a href=""https://doi.org/10.3322/caac.21689"">Wang, 2021</a>).</p>","<p><strong>External beam RT</strong></p>
+<ul>
+<li>Conformal therapy (3D-CRT)</li>
+<li>Intensity-modulated RT (IMRT)/Volumetric-modulated arc therapy </li>
+<li>Image-guided RT (IGRT)</li>
+<li>Particle therapy
+<ul>
+<li>Proton beam therapy</li>
+<li>Neutron RT</li>
+</ul>
+</li>
+<li>Stereotactic radiation therapy
+<ul>
+<li>Stereotactic radiosurgery (SRS)</li>
+<li>Stereotactic body radiation therapy (SBRT)</li>
+</ul>
+</li>
+<li>Total body irradiation</li>
+</ul>
+<p><strong>Brachytherapy</strong></p>
+<p><strong>Intraoperative radiation therapy (IORT)</strong></p>
+<p><strong>Targeted radionuclide therapy</strong></p>
+<ul>
+<li>Radioiodine</li>
+<li>Bone-targeted radioisotopes</li>
+<li>Radioimmunotherapy (Radio-labeled antibodies)</li>
+<li>Radioembolization</li>
+</ul>","<p>RICVD includes an extensive list of complications including (<a href=""https://doi.org/10.1161/JAHA.121.021686"">Bekzike, 2021</a>):</p>
+<ul>
+<li>Accelerated CAD/ACS</li>
+<li>Aortic aneurysms</li>
+<li>Arrhythmias (prolonged QT interval, ventricular tachycardia, sinus node dysfunction, atrioventricular blocks, fascicular blocks, and bundle branch blocks [right bundle most common])</li>
+<li>Autonomic dysfunction</li>
+<li>Cardiac tamponade</li>
+<li>Constrictive pericarditis (acute or chronic)</li>
+<li>Hypertension</li>
+<li>Ischemic cardiomyopathy</li>
+<li>Myocarditis</li>
+<li>Nonischemic cardiomyopathy (HFrEF, HFpEF)</li>
+<li>Pericardial effusion</li>
+<li>Pericarditis</li>
+<li>Peripheral artery disease (carotid, subclavian, mesenteric, celiac, renal, iliac, femoral artery stenosis)</li>
+<li>Pulmonary hypertension</li>
+<li>Restrictive cardiomyopathy</li>
+<li>Stress cardiomyopathy</li>
+<li>Valvular heart disease (aortic insufficiency is the most common followed by aortic stenosis)</li>
+</ul>","<p>Radiation and patient related RF includes irradiation location (anterior or left chest), high cumulative dose of radiation, younger age (&lt;50) at the time of RT, high dose of radiation fractions, presence and extent of tumor in or next to the heart, inadequate or absent shielding, concomitant chemotherapy, CVRF (family history of CAD, smoking, physical activity, obesity, DM, HTN and HLD) and pre-existing CVD (<a href=""https://doi.org/10.3857/roj.2021.00766"">Ellahham, 2021</a>).</p>
+<p><strong>HFA-ICOS baseline risk assessment (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">Lyon, 2022</a>)</strong></p>
+<ul>
+<li>10% 10-year risk = Low risk level</li>
+<li>10 -19% 10-year risk = Medium risk level</li>
+<li>&ge;20% 10-year risk = High risk level</li>
+</ul>
+<p><strong>Recommendations for baseline risk assessment of patients&nbsp;</strong>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>
+<ul>
+<li>Recommendation C1, L/B: Baseline CV risk assessment and estimation of 10-year fatal and non-fatal CVD risk with <strong>SCORE2</strong> or <strong>SCORE2</strong>-<strong>OP</strong> is recommended.</li>
+<li>SCORE2 (70 years) (<a href=""https://doi.org/10.1093/eurheartj/ehab309"">ESC, 2021</a>) or SCORE2-OP (&ge;70 years) (<a href=""https://doi.org/10.1093/eurheartj/ehab309"">ESC, 2021</a>):
+<ul>
+<li>50 years:
+<ul>
+<li>Low risk, &lt;2.5%</li>
+<li>Moderate risk, 2.5% - 7.5%</li>
+<li>High risk, &ge;7.5%</li>
+</ul>
+</li>
+<li>50&ndash;69 years:
+<ul>
+<li>Low risk, &lt;5%</li>
+<li>Moderate risk, 5% - &lt;10%</li>
+<li>High risk, &ge;10%</li>
+</ul>
+</li>
+<li>&ge;70 years:
+<ul>
+<li>Low risk 7.5%</li>
+<li>Moderate risk 7.5% - &lt;15%</li>
+<li>High risk &ge;15% General recommendations</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>General principles to mitigate CV events</strong></p>
+<ul>
+<li>Recommendation C/1, L/C: Baseline echocardiography should be considered in patients with previous CVD before RT to a volume including the heart.</li>
+<li>Recommendation C/1, L/C: Risk stratification including planned radiation type and energy, dose to CIED, the patient&rsquo;s device type, and pacing dependence is recommended prior to starting treatment</li>
+</ul>
+<p>(ESC, 2022)</p>
+<ul>
+<li>Recommendation A.1: In all patients receiving therapeutic RT to the head and neck, chest, and/or abdomen/pelvis, a comprehensive baseline evaluation to screen for and optimize treatment of underlying CVRF and/or CVD is recommended.</li>
+<li>Recommendation A.2: Before RT delivery, review of available CT chest imaging for the presence of coronary and aortic calcifications to improve CV risk stratification and mitigation of future atherosclerotic CV events is recommended.</li>
+<li>Recommendation A.3: Efforts to maximally reduce radiation doses to CV structures without compromising cancer treatment are recommended.</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1016/j.jaccao.2021.06.003"">ICOS, 2021</a>)</p>
+<p><strong>Risk categories for asymptomatic adults who are childhood and adolescent cancer survivors</strong> <br />RT risk categorization based on MHD is recommended over categorization based on prescribed dose. (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)<br /><br /><strong>Very high risk:</strong> RT &gt; 25 Gy MHD or prescribed RT &ge; 35 Gy to a volume exposing the heart if MHD is not available. <br /><strong>High risk:</strong> RT &gt; 15-25 Gy MHD or prescribed RT &ge; 35 Gy to a volume exposing the heart if MHD is not available. <br /><strong>Moderate risk:</strong> RT &gt; 5-15 Gy MHD or prescribed RT 15&ndash;34Gy to a volume exposing the heart if MHD is not available<br /><strong>Low risk:</strong> RT &lt;5 Gy MHD or prescribed RT &lt;15 Gy to a volume exposing the heart if MHD is not available</p>
+<ul>
+<li>Combination therapy</li>
+<li>RT dose plus total cumulative doxorubicin equivalent &ge; 100 mg/m2 </li>
+<li><strong>Moderate risk</strong>: RT &lt;5 Gy MHD or prescribed RT 15&ndash;34Gy to a volume exposing the heart if MHD is not available</li>
+<li><strong>High risk</strong>: RT &gt; 5-15 Gy MHD or prescribed RT &ge; 35 Gy to a volume exposing the heart if MHD is not available</li>
+<li><strong>Very high risk</strong>: RT &gt; 15 Gy MHD or prescribed RT &ge; 35 Gy to a volume exposing the heart if MHD is not available</li>
+</ul>","<ul>
+<li>
+<p>Although there are no specific recommendations for the surveillance of RICVD during the RT (except for high-risk patient with CIED) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">Lyon, 2022</a>), the current approach follows the same treatment and diagnostic approach as for non-RICVD. High sensitivity TnT (hs-cTnT) is an indicator of myocardial damage and might be found elevated during RT in those who received high RT doses (<a href=""https://doi.org/10.3857/roj.2021.00766"">Ellahham, 2021</a>). Routine monitoring of hs-cTnT could identify patients at high-risk of cardiac adverse events (<a href=""https://doi.org/10.1016/j.ijrobp.2021.07.035"">Xu, 2021</a>). (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>
+</li>
+<li>
+<p>Recommendation C/1, L/C: In patients with a CIED undergoing RT at high risk of arrhythmia and/or device dysfunction, ECG monitoring and/or pulse oximetry are recommended during every RT session.</p>
+</li>
+<li>
+<p>Recommendation C/1, L/C: In patients undergoing RT, a CIED check is recommended in all patients before and after completing RT, and during RT according to individual risk.</p>
+</li>
+</ul>","<p><strong>General recommendations before starting RT</strong></p>
+<ul>
+<li>Comprehensive CV history and physical examination.</li>
+<li>Review available imaging (CT, for assessment atherosclerotic calcifications).</li>
+<li>Aggressive screening and optimization of baseline CVRF and CVD.</li>
+<li>Patients considered at high risk, consider referral to cardiology or cardio-oncology (if available) for evaluation.</li>
+<li>Utilize available advanced techniques and strategies to prevent RICVD focused on reduced radiation exposure of the heart and CV substructures during cancer treatment (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">Lyon, 2022</a>):</li>
+<li>Modification of cancer management to omit RT</li>
+<li>Modification of the dose and volume of RT where possible (minimum volume required to the minimum dose needed to obtain the desired clinical benefit)</li>
+<li>Modification of delivery techniques to reduce cardiac radiation exposure should lead to a considerable reduction in risk (cardiac-sparing RT strategies).</li>
+<li>Sparing RT techniques have evolved over time decreasing the cardiac radiation dose (e.g., MHD in HL has decreased from ~28.9 Gy with mantel RT to 2.1 Gy with combined techniques including involved-site RT) (<a href=""https://doi.org/10.1016/j.jaccao.2021.06.007"">Bergom, 2021</a>).</li>
+</ul>
+<p><strong>Cardiac-Sparing RT strategies (<a href=""https://doi.org/10.1016/j.jaccao.2021.06.007"">Bergom, 2021</a>)</strong> <br />Types of cancer where the cardiac-sparing RT strategies may be used:</p>
+<ul>
+<li>Lymphoma, breast cancer, esophageal cancer, lung cancer, pediatric cancer)</li>
+<li>Conformal therapy (3D-CRT): Photon beams designed using forward planning; minimize low dose bath; less conformality of high dose; can use a &ldquo;heart block&rdquo; to eliminate heart from the field using beam edge.</li>
+<li>Intensity-modulated RT (IMRT)/volumetric-modulated arc therapy: Inverse planning using multiple photon beams or arcs to achieve conformality of high dose at the cost of increased low-dose exposure.
+<ul>
+<li>Proton therapy: Particle beam with Bragg peak phenomenon resulting in elimination of exit dose; enables both minimization of low dose and conformality of high dose.</li>
+<li>Image-guided RT (IGRT)</li>
+<li>Cone-beam CT: Low-dose CT obtained in treatment vault permits alignment based on visualization of internal anatomy.</li>
+<li>Surface alignment: Uses surface anatomy for patient positioning; cannot visualize internal anatomy; no radiation exposure for this alignment technique.
+<ul>
+<li>Cardiac displacement and motion management techniques</li>
+<li>Deep-inspiration breath hold: Using a device to measure depth of inspiration, patient is guided to hold breath for 10-20 seconds to displace thoracic anatomy from the heart.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Gating: Using an external abdominal device to gauge respiration, the beam is delivered during a set phase of the respiratory cycle when the heart is farthest from the target, and the beam shuts off when the patient exits this portion of the respiratory cycle.
+<ul>
+<li>Prone positioning: Displaces the target anatomy from the heart in many patients.</li>
+</ul>
+</li>
+</ul>
+<p>There are no proven pharmacotherapies to prevent RICVD. Animal models (<a href=""https://doi.org/10.1016/j.radonc.2023.110004"">Walls, 2024</a>), retrospective (<a href=""https://doi.org/10.1161/JAHA.119.014668"">Planek, 2020</a>) and population-based studies (<a href=""https://doi.org/10.1016/j.oraloncology.2019.01.019"">Gupta, 2019</a>) suggest statins may have cardioprotective effects. Role of statins, ACEIs, and anti-oxidants (<a href=""https://doi.org/10.1093/jn/134.11.3207S"">Carmia, 2004</a>) remain in experimental stages (<a href=""https://doi.org/10.3857/roj.2021.00766"">Ellahham, 2021</a>). Pharmacotherapy indication is based on the patients individual CVRF and CVD per the current guidelines and expert opinion consensus recommendations. Optimization of modifiable CVRF is recommended in all patients before and after RT (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">Lyon, 2022</a>). Non-pharmacological therapies include healthy cardiac lifestyle and risk factor modifications, routine patient education about RICVD before and after cancer treatment, and advanced techniques and strategies to prevent RICVD.</p>
+<p>There are no known RT-specific secondary preventative pharmacotherapies to reduce the risk of CV events during RT (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">Lyon, 2022</a>). Pharmacotherapy indication is based on the patients individual CVRF and CVD per the current guidelines and expert opinion consensus recommendation. Management algorithms for RICVD depends on the specific complications developed (<a href=""https://doi.org/10.3857/roj.2021.00766"">Ellahham, 2021</a>).</p>"
+Fluoropyrimidine-induced cardiotoxicity,"<p>Fluoropyrimidine-induced cardiotoxicity (FIC) results from the cardiac complications of 5-fluorouracil (FU), capecitabine (oral prodrug), and S1 (tegafur, oral prodrug) as monotherapy or chemotherapy combination (<a href=""https://doi.org/10.1016/j.critrevonc.2021.103346"">Li, 2021</a>), resulting in cancer therapy related cardiovascular toxicity (CTR-CVT) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</p>","<p>Fluoropyrimidines are antimetabolites that act as pyrimidine analogs interfering with DNA synthesis through the inhibition of thymidylate synthetase blocking the methylation of deoxyuridylic acid to thymidylic acid (<a href=""https://www.drugbank.ca/drugs/DB00544"">Drugbank, 2024</a>). These agents are also used as radio-sensitizing agents in conjunction with external beam radiation (<a href=""https://doi.org/10.1177/1758835918780140"">Sara, 2018</a>). S-1 is a combination of the tegafur with two metabolic inhibitors designed to slow metabolism of 5-FU (gimeracil and potassium oxonate) (<a href=""https://doi.org/10.1016/j.esmoop.2022.100427"">Osterlund, 2022</a>).</p>
+<p>&nbsp;</p>
+<p>Mechanism of cardiotoxicity: The incidence of FIC varies between 2% and 18% dependent on the duration, dose, scheduling (infusional regimens being associated with greater risk compared with bolus), route of administration and combination therapy with other potentially cardiotoxic chemotherapies (<a href=""https://doi.org/10.1177/1758835918780140"">Sara, 2018</a>). - Several possible mechanisms for FIC have been described including coronary vasospasm and thrombogenesis due to reversible endothelial injury with impaired vasodilation of vascular smooth muscle (<a href=""https://doi.org/10.1016/j.esmoop.2022.100427"">Osterlund, 2022</a>). ""</p>","<ul>
+<li>5-FU</li>
+<li>Capecitabine (oral prodrug)</li>
+<li>S-1 (not available in the USA)</li>
+</ul>","<p>The most common CTR-CVTs are angina pectoris, ischemia-related ECG abnormalities, hypertension, Takotsubo syndrome (TTS), and MI (even in patients with normal coronary arteries), with rarer CTR-CVT including myocarditis, arrhythmias, and peripheral arterial toxicity (Raynaud&rsquo;s phenomenon and ischemic stroke) (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>).</p>","<p>HFA-ICOS baseline risk assessment (<a href=""https://doi.org/10.1002/ejhf.1920"">Lyon, 2020</a>)</p>
+<ul>
+<li>Low risk (10% 10-year risk)</li>
+<li>Medium risk level (10 -19% 10-year risk)</li>
+<li>High risk level (&ge;20% 10-year risk)</li>
+</ul>","<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style=""display: inline !important;""><strong>Recommendations for baseline risk assessment and monitoring during fluoropyrimidine therapy</strong> (<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>
+<p style=""display: inline !important;"">&nbsp;</p>
+<ul>
+<li>Recommendation C/1, L/C: Baseline CV risk assessment and evaluation including BP measurement, ECG, lipid profile, HbA1c measurement, and SCORE2 / SCORE2-OP or equivalent is recommended before starting fluoropyrimidines.</li>
+<li>SCORE2 (70 years) (ESC, 2021) or SCORE2-OP (&ge;70 years) (ESC, 2021):
+<ul>
+<li>50 years:
+<ul>
+<li>Low risk, &lt;2.5%</li>
+<li>Moderate risk, 2.5% - 7.5%</li>
+<li>High risk, &ge;7.5%</li>
+</ul>
+</li>
+<li>50&ndash;69 years:
+<ul>
+<li>Low risk, &lt;5%</li>
+<li>Moderate risk, 5% - &lt;10%</li>
+<li>High risk, &ge;10%</li>
+</ul>
+</li>
+<li>&ge;70 years:
+<ul>
+<li>Low risk 7.5%</li>
+<li>Moderate risk 7.5% - &lt;15%</li>
+<li>High risk &ge;15%</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>General Recommendations</strong></p>
+<ul>
+<li>Recommendation C/1, L/C: A baseline echocardiogram is recommended in patients with a history of symptomatic CVD before starting fluoropyrimidines.</li>
+<li>Recommendation C/2b, L/C: Screening for CAD may be considered in patients at high and very high risk of CAD before fluoropyrimidines.</li>
+</ul>
+<ul>
+<li>Routine patient education about cardiac toxicity symptoms before treatment is recommended, with reinforcement with every cycle.</li>
+<li>Patients who may be at presumed higher risk should be routinely referred to cardio-oncology for medication optimization (<a href=""https://doi.org/10.1016/j.jaccao.2020.06.012"">Padegimas, 2020</a>).</li>
+<li>Baseline ECG is recommended.</li>
+<li>Pharmacotherapy and further cardiac workup are based on the patients&rsquo; individual CVRF and CVD per the current guidelines and expert opinion census recommendation.</li>
+</ul>
+<p>The precise role of age, CVRF, and CVD on the risk of coronary vasospasm remains uncertain (lower prevalence in patients with CVRF is thought to be due to concurrent use of cardioprotective medications with pre-existent CVD) (<a href=""https://doi.org/10.1016/j.jaccao.2020.12.005"">Zafar, 2021</a>). </p>
+<p><strong>Risk assessment during chemotherapy/treatment</strong></p>
+<ul>
+<li>FIC ranges from asymptomatic ECG changes to over ischemia and sudden cardiac death. The most common symptom of cardiotoxicity is anginal chest pain (typical or atypical) (<a href=""http://dx.doi.org/10.1097/MD.0000000000014057"">Peng, 2019</a>) due to coronary vasospasm from bolus dosing of FU often during the first exposure (<a href=""https://doi.org/10.1016/j.jaccao.2020.06.012"">Padegimas, 2020</a>).</li>
+<li>Given the low incidence of LV dysfunction attributed to FU, surveillance with TTE at specific intervals is not recommended beyond routine clinical evaluation (<a href=""https://doi.org/10.1200/OP.20.00924"">Stone, 2021</a>).</li>
+</ul>","<p>If FIC is suspected, therapy should be stopped immediately with prompt emergency department evaluation and management as presumed ACS. When recognized after chest pain resolution, this typically prompts a cardiovascular (or cardio-oncology if available) evaluation.</p>
+<p>Evaluation includes ruling out underlying CAD/ACS. This includes further evaluation with 12-lead ECG, telemetry, cardiac biomarkers (NT-proBNP, Troponin) (ischemic ECG changes and troponin elevations may be undetectable), TTE, coronary CTA, stress testing (SPECT, PET), and coronary artery catheterization if clinically indicated (<a href=""https://doi.org/10.1016/j.jscai.2023.101264"">Mehta, 2023</a>).</p>
+<p>Ultimate decision of rechallenge FU remains controversial and often discourage due the high recurrence rate of up 90% and death up to 13% (Sara, 2018). Alternative approaches (reduced dosing, alternate FU drugs, antidote [uridine triacetate] and alternative non-FU regimens) have either less efficacy or not available in the United States (Tegafur) (<a href=""https://doi.org/10.1016/j.jscai.2023.101264"">Padegimas, 2020</a>).</p>
+<p>If FU-based treatment is considered the best cancer therapy a MDT decision involving cardiology (or cardio-oncology if available), oncology, radiation oncology and surgical oncology is recommended to weigh risks versus benefits to attempt a rechallenge of the therapy.</p>
+<p><a href=""https://doi.org/10.1016/j.jaccao.2020.06.012"">Padegimas and Carver</a> shared a single center approach of successful 5-FU rechallenge with no recurrent cardiac toxicity.</p>
+<p><strong>Drug administration</strong></p>
+<ul>
+<li>Switch 5-FU to bolus dosing.</li>
+<li>Continue oral dosing for capecitabine rechallenge.</li>
+</ul>
+<p><strong>Pre-treatment</strong></p>
+<ul>
+<li>Patients with HTN, switch antihypertensive medication to CCB. <br />* 3 to 4 h prior to 5-FU bolus or morning of cycle 1 of capecitabine treat with 30-60mg nifedipine ER and 30-60mg isosorbide mononitrate.</li>
+</ul>
+<p><strong>Treatment</strong></p>
+<ul>
+<li>1 h prior to 5-FU bolus treat with 30 mg of diltiazem. Continue monitoring during 12 min bolus push with cardiologist present. Monitor for 90 min (reassessed by cardiology before discharge home). 12 h after bolus repeat pre-treatment regimen.</li>
+<li>12 h after 1st dose of capecitabine treat with 90 mg diltiazem ER one time only. Repeat pre-treatment for cycle day 2-14. <br />* Sublingual nitroglycerin and/or short-acting nifedipine available at chairside.</li>
+</ul>
+<p><strong>Post-treatment</strong></p>
+<ul>
+<li>24 h after 5-FU bolus treat with 30-60 mg nifedipine ER. 48 h after 5-FU bolus resume pre-cycle antihypertensives.</li>
+<li>On cycle day 15 of capecitabine repeat 30-60 mg nifedipine ER. On cycle day 16 resume pre-cycle antihypertensives.</li>
+</ul>"
+Multiple Myeloma Treatments,,"<p>Multiple Myeloma treatments encompass a variety of different drugs, each with a different mechanism of action. Proteasome Inhibitors (PIs) have been shown to cause cardiotoxicity by the impairment of activation of NF-KB, which affects angiogenesis and survival of cardiac myocytes, also with effect on vascular smooth muscle cells, making them more vulverable for atherosclerotic plaques (<a href=""https://doi.org/10.1038/s41408-023-00849-z"">El-Cheikh et al, 2023</a>). Imunno Modulatory drugs (IMiDs) has also been associated with endothelial injury and dysfuction, although the underlying mechanism remains unclear. <br />Additionally, patients with Multiple Myeloma are at elevated risk for thrombosis due to both patient and myeloma-related faactors, particularly the combination of PI and IMiD. Anti-CD38 Monoclonal Antibodies are another type of therapy, and the mechanisms behind their cardiotoxicity are not well understood, and there is little information regarding ""</p>","<p><strong>Alkylating Agents</strong></p>
+<ul>
+<li>Cyclophosphamid</li>
+<li>Mephalan</li>
+</ul>
+<p><strong>Immunomodulatory drugs (IMiD)</strong></p>
+<ul>
+<li>Lenalidomide</li>
+<li>Pomalidomide</li>
+<li>Thalidomide</li>
+</ul>
+<p><strong>Proteasome Inhibitors (PI)</strong></p>
+<ul>
+<li>Bortezomib</li>
+<li>Carfilzomib</li>
+</ul>
+<p><strong>Monoclonal Antibodies (Anti-CD83)</strong></p>
+<ul>
+<li>Daratumumab</li>
+<li>Elotuzumab</li>
+<li>Isatuximab</li>
+</ul>
+<p><strong>Corticosteroids</strong></p>
+<ul>
+<li>Dexamethasone</li>
+</ul>","<ul>
+<li>Hypertension
+<ul>
+<li>Lenalinomide, Pomalidomide, Bortezomib, Carfilsomib, Daratumumab, Elotuzumab, Isatuximab</li>
+</ul>
+</li>
+<li>Hyperglycemia/Diabetes
+<ul>
+<li>Lenalinomide, Pomalidomide, Bortezomib, Carfilzomib, Daratumumab, Elotuzumab, Isatuximab</li>
+</ul>
+</li>
+<li>Heart Failure
+<ul>
+<li>Cyclophosphamide, Mephalan, Lenalidomide, Thalidomide, Bortezomib, Carfilzomib, Isatuximab</li>
+</ul>
+</li>
+<li>Atrial Fibrillation
+<ul>
+<li>Cyclophosphamide, Mephalan, Lenalidomide, Pomalidomide, Thalidomide, Bortezomib, Carfilzomib, Daratumumab, Isatuximab</li>
+</ul>
+</li>
+<li>Myocardial Infarction
+<ul>
+<li>Lenalidomide, Pomalidomide, Thalidomide, Bortezomib, Carfilzomib</li>
+</ul>
+</li>
+<li>Venous Thromboembolism
+<ul>
+<li>Lenalidomide, Pomalidomide, Thalidomide, Bortezomib, Carfilzomib, Elotuzumab</li>
+</ul>
+</li>
+<li>Pulmonary Hypertension
+<ul>
+<li>Bortezomib, Carfilzomib</li>
+</ul>
+</li>
+<li>Arterial Thromboembolism
+<ul>
+<li>Lenalidomide, Pomalidomide, Thalidomide</li>
+</ul>
+</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><span style=""text-decoration: underline;""><strong>Proteasome Inihibitor treatment</strong></span><br /><strong>Low and Moderate Risk</strong></p>
+<ul>
+<li>Cardiovascular History and Physical Exam (Class I)</li>
+<li>Blood pressure measurement and ECG (Class I)</li>
+<li>Natriuretic Peptides (Class IIa)</li>
+<li>TTE (Class I)</li>
+</ul>
+<p><strong>High and Very High Risk</strong></p>
+<ul>
+<li>Cardiovascular History and Physical Exam (Class I)</li>
+<li>Blood pressure measurement and ECG (Class I)</li>
+<li>Natriuretic Peptides (Class I)</li>
+<li>TTE (Class I)</li>
+</ul>
+<p><strong>Cardiac Amlyloidosis Patients</strong></p>
+<ul>
+<li>Cardiovascular History and Physical Exam (Class I)</li>
+<li>Blood pressure measurement and ECG (Class I)</li>
+<li>Natriuretic Peptides (Class I)</li>
+<li>TTE (Class I)</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>","<p><strong>Low and Moderate Risk</strong></p>
+<ul>
+<li>Cardiovascular History and Physical Exam (Class I)</li>
+<li>Blood pressure measurement at every clinical visit (Class I)</li>
+<li>Blood pressure monitoring at home (Class IIa)</li>
+<li>Natriuretic Peptides every cycle during the first 6 cycles under Carfilzomib or Bortezomib (Class IIa)</li>
+<li>TTE every 3 cycles under carfilzomib (Class IIb)</li>
+</ul>
+<p><strong>High and Very High Risk</strong></p>
+<ul>
+<li>Cardiovascular History and Physical Exam (Class I)</li>
+<li>Blood pressure measurement at every clinical visit (Class I)</li>
+<li>Blood pressure monitoring at home (Class IIa)</li>
+<li>Natriuretic Peptides every cycle during the first 6 cycles under Carfilzomib or Bortezomib (Class IIa)</li>
+<li>TTE every 3 cycles under carfilzomib (Class IIa)</li>
+</ul>
+<p><strong>Cardiac Amlyloidosis Patients</strong></p>
+<ul>
+<li>Cardiovascular History and Physical Exam (Class I)</li>
+<li>Blood pressure measurement at every clinical visit (Class I)</li>
+<li>Blood pressure monitoring at home (Class IIa)</li>
+<li>Natriuretic Peptides and Troponin every 3-6 months (Class I)</li>
+<li>TTE every 3 cycles under carfilzomib (Class IIa)</li>
+</ul>
+<p>(<a href=""https://doi.org/10.1093/eurheartj/ehac244"">ESC, 2022</a>)</p>",","
